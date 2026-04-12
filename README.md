@@ -66,76 +66,7 @@ Then open:
 http://localhost:8000/
 ```
 
-## 5. Upload to GitHub with GitHub CLI
-
-### First-time GitHub CLI authentication
-
-If needed:
-
-```bash
-gh auth login
-```
-
-Follow the prompts and authenticate with your GitHub account.
-
-### Create a new repo from this existing folder and push it
-
-From the project folder:
-
-```bash
-cd /Users/szilard/Documents/Python/salsa_website
-```
-
-Initialize git if needed:
-
-```bash
-git init
-git branch -M main
-```
-
-Create a `.gitignore` so the virtual environment is not uploaded:
-
-```bash
-cat > .gitignore <<'GITIGNORE'
-.venv/
-__pycache__/
-.DS_Store
-GITIGNORE
-```
-
-Stage and commit everything:
-
-```bash
-git add .
-git commit -m "Initial commit: salsa website"
-```
-
-Create a new **private** GitHub repo from this folder and push it:
-
-```bash
-gh repo create salsa-website --private --source=. --remote=origin --push
-```
-
-If you want it to be public instead:
-
-```bash
-gh repo create salsa-website --public --source=. --remote=origin --push
-```
-
-## 6. Upload without GitHub CLI (web + git)
-
-If you prefer, create an empty repository on github.com first, then run:
-
-```bash
-git init
-git branch -M main
-git add .
-git commit -m "Initial commit: salsa website"
-git remote add origin https://github.com/YOUR_USERNAME/salsa-website.git
-git push -u origin main
-```
-
-## 7. Deploy to Netlify later
+## 5. Deploy to Netlify later
 
 After the repo is on GitHub, you can:
 
