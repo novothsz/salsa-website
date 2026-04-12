@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Salsa Moves Library</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>Salsa Moves Library</h1>
+    <p>Browse salsa figures by type and level, inspired by salsalap.hu.</p>
+  </header>
+
+  <main class="site-main">
+    <section class="controls">
+      <label>
+        Search by name:
+        <input type="text" id="searchInput" placeholder="e.g. Setenta" />
+      </label>
+      <label>
+        Type:
+        <select id="typeFilter">
+          <option value="">All types</option>
+        </select>
+      </label>
+      <label>
+        Level:
+        <select id="levelFilter">
+          <option value="">All levels</option>
+          <option value="beginer1">Beginner 1</option>
+          <option value="beginer2">Beginner 2</option>
+          <option value="intermediate">Intermediate</option>
+          <option value="advanced">Advanced</option>
+          <option value="unknown">Unknown</option>
+        </select>
+      </label>
+    </section>
+
+    <section id="movesContainer" class="moves-container">
+      <p>Loading moves...</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Personal salsa reference site. Original inspiration: salsalap.hu (independent, non-official).</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

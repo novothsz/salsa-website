@@ -1,0 +1,2333 @@
+[
+  {
+    "name": "Alap testtartás / Basic posture",
+    "slug": "basic-posture",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Nyitott tartás / Zárt tartás / open-position / latin-position",
+    "slug": "position",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": ""
+  },
+  {
+    "name": "Basico",
+    "slug": "basico",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Rumba",
+    "slug": "rumba",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Hátra -hátra / Back&back",
+    "slug": "back2back",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Caminando",
+    "slug": "caminando",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Caminando derecha/izquierda / Jobbra-balra",
+    "slug": "caminando-derecha-izquierda",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": ""
+  },
+  {
+    "name": "Caminando p'alante/p'atras / Előre-hátra",
+    "slug": "caminando-palante-patras",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Mambo",
+    "slug": "mambo",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": ""
+  },
+  {
+    "name": "Elől kereszt / Front cross",
+    "slug": "front-cross",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": ""
+  },
+  {
+    "name": "Hátul kereszt / Back cross",
+    "slug": "back-cross",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": ""
+  },
+  {
+    "name": "Tánc etikett / dance-etiquette",
+    "slug": "dance-etiguette",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": ""
+  },
+  {
+    "name": "Para el medio",
+    "slug": "para-el-medio",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Vamos abajo",
+    "slug": "vamos-abajo",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Exhibela / vuelta",
+    "slug": "exhibela",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Exhibela doble",
+    "slug": "exhibela-doble",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Di le que sí",
+    "slug": "di-le-que-si",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Di le que sí doble",
+    "slug": "di-le-que-si-doble",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Di le que no",
+    "slug": "di-le-que-no",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Guapeia / Casino",
+    "slug": "guapeia",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Guapeia - kinyitás",
+    "slug": "guapeia2",
+    "type": "ELEMENTOS",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "4 -es lépés / step '4'",
+    "slug": "step4",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "Kubai alap / basico cubano",
+    "slug": "basic-cubano",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Forgások / rounde turn/evelyn",
+    "slug": "evelyn",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "Exhibela complicado",
+    "slug": "exhibela-complicado",
+    "type": "ELEMENTOS",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Balra forgás / left turn",
+    "slug": "left-turn",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Coca cola turn",
+    "slug": "coca-cola",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Coca cola por atras",
+    "slug": "coca-cola-por-atras",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Vuelta",
+    "slug": "vuelta",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Suzy Q",
+    "slug": "suzy-q",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Camina(la)",
+    "slug": "caminala",
+    "type": "ELEMENTOS",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Kar alatti forgás / Hombres - Mujeres",
+    "slug": "hombres-mujeres",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Estacion nuevo",
+    "slug": "estacion-nuevo",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Mujeres Sacala",
+    "slug": "mujeres-sacala",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Enchufla con reggaeton",
+    "slug": "enchufla-con-reggaeton",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Enchufla con pelota",
+    "slug": "enchufla-con-pelota",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Enchufla con hipp-hopp",
+    "slug": "enchufla-con-hipp-hopp",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Enchufla",
+    "slug": "enchufla",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Enchufla doble",
+    "slug": "enchufla-doble",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Enchufla de mentira",
+    "slug": "enchufla-de-mentira",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Candado",
+    "slug": "candado",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Candado y exhibela complicado",
+    "slug": "candado-y-exhibela-complicado",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Pa' ti pa' mi",
+    "slug": "pa-ti-pa-mi",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "El uno (1)",
+    "slug": "el-uno",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Dieciséis (16)",
+    "slug": "dieciseis",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Kentucky",
+    "slug": "kentucky",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "La habana",
+    "slug": "la-habana",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "vacilon",
+    "slug": "vacilon",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Rucola",
+    "slug": "rucola",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Tu cola",
+    "slug": "tu-cola",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Puente",
+    "slug": "puente",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "El dos",
+    "slug": "el-dos",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "El doce (12)",
+    "slug": "el-doce",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Enchufla moderno",
+    "slug": "enchufla-moderno",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "enchufla picante",
+    "slug": "enchufla-picante",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "la guardia",
+    "slug": "la-guardia",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Pon le sabor",
+    "slug": "pon-le-sabor",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Enchufla con mambo con quatro",
+    "slug": "enchufla-con-mambo-con-quatro",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Tres Sabores",
+    "slug": "tres-sabores",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "kentucky complicado",
+    "slug": "kentucky-complicado",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "guanabo",
+    "slug": "guanabo",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Machucho",
+    "slug": "machucho",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Camaguey",
+    "slug": "camaguey",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "youtube": ""
+  },
+  {
+    "name": "El lazo",
+    "slug": "el-lazo",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Infanta",
+    "slug": "infanta",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Enchufla con caminala",
+    "slug": "enchufla_con_caminala",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Enchufla con el swing",
+    "slug": "enchufla-con-el-swing",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Enchufla con rock you",
+    "slug": "enchufla-con-rock-you",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Estacion",
+    "slug": "estacion",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Moliendo cafe",
+    "slug": "moliendo-cafe",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Enchufla moderno y coca cola",
+    "slug": "enchufla-moderno-y-coca-cola",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Tio Vivo",
+    "slug": "tio-vivo",
+    "type": "VACILA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Mojito",
+    "slug": "mojito",
+    "type": "VACILA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "cinquenta",
+    "slug": "cinquenta",
+    "type": "VACILA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Vacila",
+    "slug": "vacila",
+    "type": "VACILA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Vacilala",
+    "slug": "vacilala",
+    "type": "VACILA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Vacila con dos manos",
+    "slug": "vacila-con-dos-manos",
+    "type": "VACILA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "vacila loco",
+    "slug": "vacila-loco",
+    "type": "VACILA",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "Vacilense los dos",
+    "slug": "vacilense-los-dos",
+    "type": "VACILA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Coco",
+    "slug": "coco",
+    "type": "VACILA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Coco loco",
+    "slug": "coco-loco",
+    "type": "VACILA",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "Vacila con dos manos y casate",
+    "slug": "vacila-con-dos-manos-y-casate",
+    "type": "VACILA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "vacila doble",
+    "slug": "vacila-doble",
+    "type": "VACILA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Sorpresa",
+    "slug": "sorpresa",
+    "type": "VACILA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Thalia",
+    "slug": "thalia",
+    "type": "VACILA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Michaela",
+    "slug": "michaela",
+    "type": "VACILA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Mona Lisa",
+    "slug": "mona-lisa",
+    "type": "VACILA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "El nino",
+    "slug": "el-nino",
+    "type": "VACILA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Michaela complicado",
+    "slug": "michaela-complicado",
+    "type": "VACILA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Vacila loco complicado",
+    "slug": "vacila-loco-complicado",
+    "type": "VACILA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta con medio",
+    "slug": "setenta-con-medio",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta con cruce",
+    "slug": "setenta-con-cruce",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta doble complicado",
+    "slug": "setenta-doble-complicado",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setesientos",
+    "slug": "setesientos",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta",
+    "slug": "setenta",
+    "type": "SETENTA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "setenta con alarde",
+    "slug": "setenta-con-alarde",
+    "type": "SETENTA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta con alarde gancho y gancho",
+    "slug": "setenta-con-alarde-gancho-y-gancho",
+    "type": "SETENTA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta y exhibela",
+    "slug": "setenta-y-exhibela",
+    "type": "SETENTA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta complicado",
+    "slug": "setenta-complicado",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta al reves",
+    "slug": "setenta-al-reves",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta Nuevo",
+    "slug": "setenta-nuevo",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "El Salao",
+    "slug": "el-salao",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Noventa",
+    "slug": "noventa",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "El mostro",
+    "slug": "el-mostro",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta doble",
+    "slug": "setenta-doble",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta con coca cola",
+    "slug": "setenta-con-coca-cola",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Cruce",
+    "slug": "cruce",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "El malecon",
+    "slug": "el-malecon",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "La Mayi",
+    "slug": "la-mayi",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "La tijera",
+    "slug": "la-tijera",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "el calvo",
+    "slug": "el-calvo",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta y pico",
+    "slug": "setenta-y-pico",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "La tuja",
+    "slug": "la-tuja",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta con setenta complicado",
+    "slug": "setenta-con-setenta-complicado",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "setenta nuevo complicado",
+    "slug": "setenta-nuevo-complicado",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta con setenta",
+    "slug": "setenta-con-setenta",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Arcoiris",
+    "slug": "arcoiris",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Abrazo",
+    "slug": "abrazo",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Medio noche",
+    "slug": "Medio-noche",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Medio noche",
+    "slug": "medio-noche",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Mantequilla",
+    "slug": "mantequilla",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta complicado ala Cubanissimo",
+    "slug": "setenta-complicado-ala-cubanissimo",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "el Balance",
+    "slug": "balance",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta y cinco",
+    "slug": "setenta-y-cinco",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta y cinco complicado",
+    "slug": "setenta-y-cinco-complicado",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta por debajo",
+    "slug": "setenta-por-debajo",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta con alarde con alarde",
+    "slug": "setenta-con-alarde-con-alarde",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Cobra",
+    "slug": "cobra",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Supermario",
+    "slug": "supermario",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta loco",
+    "slug": "setenta-loco",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Pedro navaja",
+    "slug": "pedro-navaja",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta saco atras",
+    "slug": "setenta-saco-atras",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "20170518 Peti és Szandi",
+    "slug": "20170518",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta con picante",
+    "slug": "setenta-con-picante",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta moderno",
+    "slug": "setenta-moderno",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Cubanissimo",
+    "slug": "cubanissimo",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta por abajo",
+    "slug": "setenta-por-abajo",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Calle Real",
+    "slug": "calle-real",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Setenta con Siete",
+    "slug": "setenta-con-siete",
+    "type": "SETENTA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Siete por atras es stylo cubano",
+    "slug": "siete-por-atras-es-stylo-cubano",
+    "type": "SIETE",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Siete",
+    "slug": "siete",
+    "type": "SIETE",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Siete doble",
+    "slug": "siete-doble",
+    "type": "SIETE",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Panque",
+    "slug": "panque",
+    "type": "SIETE",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Siete con coca cola",
+    "slug": "siete-con-coca-cola",
+    "type": "SIETE",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Siete Moderno",
+    "slug": "siete-moderno",
+    "type": "SIETE",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Siete loco",
+    "slug": "siete-loco",
+    "type": "SIETE",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Siete loco complicado",
+    "slug": "siete-loco-complicado",
+    "type": "SIETE",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Siete magniv",
+    "slug": "siete-magniv",
+    "type": "SIETE",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "La cuadra",
+    "slug": "la-cuadra",
+    "type": "SIETE",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Spaghetti",
+    "slug": "spaghetti",
+    "type": "SIETE",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "La cuadra complicado",
+    "slug": "la-cuadra-complicado",
+    "type": "SIETE",
+    "level": "advanced",
+    "youtube": ""
+  },
+  {
+    "name": "Tocinillo",
+    "slug": "tocinillo",
+    "type": "SIETE",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Siete alborotado",
+    "slug": "siete-alborotado",
+    "type": "SIETE",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Babosa",
+    "slug": "babosa",
+    "type": "SIETE",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Babosa doble",
+    "slug": "babosa-doble",
+    "type": "SIETE",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Siete por atras",
+    "slug": "siete-por-atras",
+    "type": "SIETE",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "el Tunel",
+    "slug": "el-tunel",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Saoko",
+    "slug": "saoko",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Romantic",
+    "slug": "romantic",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Sombrero",
+    "slug": "sombrero",
+    "type": "SOMBRERO",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Sombrero con mambo",
+    "slug": "sombrero-con-mambo",
+    "type": "SOMBRERO",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Balsero",
+    "slug": "balsero",
+    "type": "SOMBRERO",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Sombero de Jackson",
+    "slug": "sombrero-de-jackson",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Sombrero Doble",
+    "slug": "sombrero-doble",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Juana la Cubana",
+    "slug": "juana-la-cubana",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Ochenta y ocho (88)",
+    "slug": "ochenta-y-ocho",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Abanico / Legyező",
+    "slug": "abanico",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Besito / Un Beso",
+    "slug": "besito",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "dos besos / Besito doble",
+    "slug": "dos-besos",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "ochenta y uno (81)",
+    "slug": "ochenta-y-uno",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Montana",
+    "slug": "montana",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Juana la Italiana",
+    "slug": "juana-la-italiana",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Gaviota",
+    "slug": "gaviota",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Fin winter",
+    "slug": "fin-winter",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "fin presa",
+    "slug": "fin-presa",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Reverencia",
+    "slug": "reverencia",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Sombrero con coca cola",
+    "slug": "sombrero-con-coca-cola",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Abanico complicado",
+    "slug": "abanico-complicado",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Sombrero por debajo",
+    "slug": "sombrero-por-debajo",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Bebe",
+    "slug": "bebe",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Sombrero complicado",
+    "slug": "sombrero-complicado",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Agamenon",
+    "slug": "agamenon",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Sombrero por debajo complicado",
+    "slug": "sombrero-por-debajo-complicado",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "La Rosa",
+    "slug": "la-rosa",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Niagara",
+    "slug": "niagara",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Sombrero doble complicado",
+    "slug": "sombrero-doble-complicado",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "La Rubenada",
+    "slug": "la-rubenada",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "El duque",
+    "slug": "el-duque",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Montana rusa",
+    "slug": "montana-rusa",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Ahorcala",
+    "slug": "ahorcala",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Balsero complicado",
+    "slug": "balsero-complicado",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Club Taco",
+    "slug": "club-taco",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "ochenta y cinco (85)",
+    "slug": "ochenta-y-cinco",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "la Rubenada complicado",
+    "slug": "la-rubenada-complicado",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "sombrero de manny",
+    "slug": "sombrero-de-manny",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "el nudo del DJ",
+    "slug": "el-nudo-del-dj",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "sombrero enganchado",
+    "slug": "sombrero-enganchado",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Sombero de guano",
+    "slug": "sombero-de-guano",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Sombrero de Lucy",
+    "slug": "sombrero-de-lucy",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "vuela vuela",
+    "slug": "vuela-vuela",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Sombrero por abajo largo",
+    "slug": "sombrero-por-abajo-largo",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Arana",
+    "slug": "arana",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Ochenta",
+    "slug": "ochenta",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Ochenta abajo",
+    "slug": "ochenta-abajo",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Juan el cubanito",
+    "slug": "juana-la-cubanito",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Sombrero nuevo",
+    "slug": "sombrero-nuevo",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "dedo guarapo y bota con vuelta",
+    "slug": "dedo-guarapo-y-bota-con-vuelta",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Adios con la familia ala Cubanismo",
+    "slug": "adios-con-la-familia-ala-cubanismo",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "El nueve (9)",
+    "slug": "el-nueve",
+    "type": "RUEDA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "el seis (6)",
+    "slug": "el-seis",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "el zero (0) / Enchufla con el zero (0)",
+    "slug": "el-zero",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "un tarrito",
+    "slug": "un-tarrito",
+    "type": "RUEDA",
+    "level": "beginer1",
+    "youtube": ""
+  },
+  {
+    "name": "un tarrito de mentira",
+    "slug": "un-tarrito-de-mentira",
+    "type": "RUEDA",
+    "level": "beginer1",
+    "youtube": ""
+  },
+  {
+    "name": "Dame",
+    "slug": "dame",
+    "type": "RUEDA",
+    "level": "beginer1",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "dame de mentira",
+    "slug": "dame-de-mentira",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": ""
+  },
+  {
+    "name": "Dame con una/dos",
+    "slug": "dame-con-una",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": ""
+  },
+  {
+    "name": "Dame con mambo",
+    "slug": "dame-con--mambo",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": ""
+  },
+  {
+    "name": "The fly",
+    "slug": "the-fly",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "The fly moderno",
+    "slug": "the-fly-moderno",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Vacilala y dame",
+    "slug": "vacilala-y-dame",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": ""
+  },
+  {
+    "name": "Tres fly",
+    "slug": "tres-fly",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Cinco fly",
+    "slug": "cinco-fly",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Dos fly",
+    "slug": "dos-fly",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "The fly complicado",
+    "slug": "the-fly-complicado",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Enchufla con una/dos",
+    "slug": "Enchufla-con-una",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": ""
+  },
+  {
+    "name": "la policia / … de mentira",
+    "slug": "la-policia",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "la policia mujeres / … de mentira",
+    "slug": "la-policia-mujeres",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Matala",
+    "slug": "matala",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "foto",
+    "slug": "foto",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": ""
+  },
+  {
+    "name": "castigala",
+    "slug": "castigala",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": ""
+  },
+  {
+    "name": "mosquito",
+    "slug": "mosquito",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": ""
+  },
+  {
+    "name": "enchufla con king-kong",
+    "slug": "enchufla-con-king-kong",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Enchufla con hip-hop",
+    "slug": "enchufla-con-hip-hop",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Directo",
+    "slug": "directo",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Enchufla arriba",
+    "slug": "enchufla-arriba",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Dame dos",
+    "slug": "dame-dos",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "Dame dos con dos",
+    "slug": "dame-dos-con-dos",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "Dame con coca cola",
+    "slug": "dame-con-coca-cola",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "dame y no le llegues",
+    "slug": "dame-y-no-le-llegues",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Adios con la hermana y la familia",
+    "slug": "adios-con-la-hermana-y-la-familia",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "dame arriba",
+    "slug": "dame-arriba",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "enchufla con mambo",
+    "slug": "enchufla-con-mambo",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "enchufla con clave",
+    "slug": "enchufla-con-clave",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "enchufla con avion / … de mentira",
+    "slug": "enchufla-con-avion",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "enchufla con rumba",
+    "slug": "enchufla-con-rumba",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Pelota / enchufla con vuelta",
+    "slug": "pelota",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "pelota con una",
+    "slug": "pelota-con-una",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Pelota con quatro",
+    "slug": "pelota-con-quatro",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "dedo guarapo y bota",
+    "slug": "dedo-guarapo-y-bota",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "varones al medio",
+    "slug": "varones-al-medio",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "mujeres/hombres izquierda/derecha",
+    "slug": "mujeres-hombres-izquierda-derecha",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "Engana la",
+    "slug": "engana-la",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Pelota con dos",
+    "slug": "pelota-con-dos",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "la flor",
+    "slug": "la-flor",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "train",
+    "slug": "train",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "Directo doble",
+    "slug": "directo-doble",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "3 way stop",
+    "slug": "3-way-stop",
+    "type": "RUEDA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "el ocho (8)",
+    "slug": "el-ocho",
+    "type": "RUEDA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "el ocho complicado",
+    "slug": "el-ocho-complicado",
+    "type": "RUEDA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "cadena",
+    "slug": "cadena",
+    "type": "RUEDA",
+    "level": "advanced",
+    "youtube": ""
+  },
+  {
+    "name": "cadeneta",
+    "slug": "cadeneta",
+    "type": "RUEDA",
+    "level": "advanced",
+    "youtube": ""
+  },
+  {
+    "name": "paseala por el parque",
+    "slug": "paseala-por-el-parque",
+    "type": "RUEDA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "sambuca",
+    "slug": "sambuca",
+    "type": "RUEDA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "dame y coca cola por atras",
+    "slug": "dame-y-coca-cola-por-atras",
+    "type": "RUEDA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Tunel",
+    "slug": "tunel",
+    "type": "RUEDA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Lauron",
+    "slug": "lauron",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "la confusion",
+    "slug": "la confusion",
+    "type": "RUEDA",
+    "level": "advanced",
+    "youtube": ""
+  },
+  {
+    "name": "puente complicado",
+    "slug": "puente-complicado",
+    "type": "RUEDA",
+    "level": "advanced",
+    "youtube": ""
+  },
+  {
+    "name": "Manolete",
+    "slug": "manolete",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Paseala",
+    "slug": "paseala",
+    "type": "PASEALA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Paseala por arriba",
+    "slug": "paseala-por-arriba",
+    "type": "PASEALA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "paseala complicado",
+    "slug": "paseala-complicado",
+    "type": "PASEALA",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "La Jenny",
+    "slug": "la-jenny",
+    "type": "PASEALA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Copelia",
+    "slug": "copelia",
+    "type": "PASEALA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Copelia complicado",
+    "slug": "copelia-complicado",
+    "type": "PASEALA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Paseala y paraejala",
+    "slug": "paseala-y-paraejala",
+    "type": "PASEALA",
+    "level": "advanced",
+    "youtube": ""
+  },
+  {
+    "name": "Paseala con coca cola",
+    "slug": "paseala-con-coca-cola",
+    "type": "PASEALA",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Adios",
+    "slug": "adios",
+    "type": "ADIOS",
+    "level": "beginer2",
+    "youtube": ""
+  },
+  {
+    "name": "Adios de mentira",
+    "slug": "adios-de-mentira",
+    "type": "ADIOS",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Adios con la hermana",
+    "slug": "adios-con-la-hermana",
+    "type": "ADIOS",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Adios con la hermana y la prima",
+    "slug": "adios-con-le-hermana-y-la-prima",
+    "type": "ADIOS",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "adios arriba",
+    "slug": "adios-arriba",
+    "type": "ADIOS",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "adios con la familia",
+    "slug": "adios-con-la-familia",
+    "type": "ADIOS",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "adios con la familia y arriba",
+    "slug": "adios-con-la-familia-y-arriba",
+    "type": "ADIOS",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "Adios Doble",
+    "slug": "adios-doble",
+    "type": "ADIOS",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "medio sombrero / medio sombrero y exhibela",
+    "slug": "medio-sombrero",
+    "type": "MEDIO-SOMBRERO",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Gloria",
+    "slug": "gloria",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Abrazala",
+    "slug": "abrazala",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Dedo",
+    "slug": "dedo",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Dedo con evelyn",
+    "slug": "dedo-con-evelyn",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Dedo saboreado",
+    "slug": "dedo-saboreado",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "El sordo",
+    "slug": "el-sordo",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Gloria el gancho",
+    "slug": "gloria-el-gancho",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "youtube": ""
+  },
+  {
+    "name": "Tornillo",
+    "slug": "tornillo",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Colon",
+    "slug": "colon",
+    "type": "MEDIO-SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Acaso",
+    "slug": "acaso",
+    "type": "MEDIO-SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Abrazala complicado",
+    "slug": "abrazala-complicado",
+    "type": "MEDIO-SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "ochenta y quatro (84)",
+    "slug": "ochenta-y-quatro",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Bayamo",
+    "slug": "bayamo",
+    "type": "MEDIO-SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Copelio",
+    "slug": "copelio",
+    "type": "MEDIO-SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Cuncun",
+    "slug": "cuncun",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "El force",
+    "slug": "el-force",
+    "type": "MEDIO-SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Medio sombrero y exhibela doble",
+    "slug": "medio-sombrero-y-exhibela-doble",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Melon",
+    "slug": "melon",
+    "type": "MEDIO-SOMBRERO",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Sabrosura",
+    "slug": "sabrosura",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "el melao",
+    "slug": "el-melao",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "El suave",
+    "slug": "el-suave",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "El tambor",
+    "slug": "el-tambor",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Dedo loco",
+    "slug": "dedo-loco",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Avioneta",
+    "slug": "avioneta",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Registrala",
+    "slug": "registrala",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Maykel",
+    "slug": "maykel",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "youtube": ""
+  },
+  {
+    "name": "Ola brava",
+    "slug": "ola-brava",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "ola brava complicada",
+    "slug": "ola-brava-complicada",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "youtube": ""
+  },
+  {
+    "name": "siete doble complicado",
+    "slug": "siete-doble-complicado",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "setenta y siete (77)",
+    "slug": "setenta-y-siete",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "El Gancho Maykel",
+    "slug": "el-gancho-maykel",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Durdu El Loco",
+    "slug": "durdu-el-loco",
+    "type": "OTHER",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Dedo gancho complicado",
+    "slug": "dedo-gancho-complicado",
+    "type": "OTHER",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Echeveria",
+    "slug": "echeveria",
+    "type": "OTHER",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Echeveria complicado",
+    "slug": "echeveria-complicado",
+    "type": "OTHER",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Yoghurt",
+    "slug": "yogurt",
+    "type": "OTHER",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Ping-pong",
+    "slug": "ping-pong",
+    "type": "OTHER",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Yoghurt y ping-pong",
+    "slug": "yoghurt-y-ping-pong",
+    "type": "OTHER",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Double play",
+    "slug": "double-play",
+    "type": "OTHER",
+    "level": "beginer2",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "dedo de Lazaro",
+    "slug": "dedo-de-lazaro",
+    "type": "OTHER",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Serpiente",
+    "slug": "serpiente",
+    "type": "OTHER",
+    "level": "intermediate",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "pablito",
+    "slug": "pablito",
+    "type": "OTHER",
+    "level": "advanced",
+    "youtube": ""
+  },
+  {
+    "name": "Remolino",
+    "slug": "remolino",
+    "type": "OTHER",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Coco taxi",
+    "slug": "coco-taxi",
+    "type": "OTHER",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Gusto Cubano",
+    "slug": "gustocubano",
+    "type": "OTHER",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Con dos mujeres",
+    "slug": "con-dos-mujeres",
+    "type": "OTHER",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  },
+  {
+    "name": "Durdu El Loco complicado",
+    "slug": "durdu-el-loco-complicado",
+    "type": "OTHER",
+    "level": "advanced",
+    "youtube": "https://www.youtube.com/watch?v=dummy"
+  }
+]

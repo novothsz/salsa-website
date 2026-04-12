@@ -1,0 +1,3673 @@
+[
+  {
+    "name": "Alap testtartás / Basic posture",
+    "slug": "basic-posture",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/basic-posture",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/UCPqfdkmiVY?rel=0",
+      "https://www.youtube.com/embed/iX1SoWTHF9g?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Nyitott tartás / Zárt tartás / open-position / latin-position",
+    "slug": "position",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/position",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Basico",
+    "slug": "basico",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/basico",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/UCPqfdkmiVY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Rumba",
+    "slug": "rumba",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/rumba",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/UCPqfdkmiVY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Hátra -hátra / Back&back",
+    "slug": "back2back",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/back2back",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/67B5FP2dSL0?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Caminando",
+    "slug": "caminando",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/caminando",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/iX1SoWTHF9g?rel=0",
+      "https://www.youtube.com/embed/UCPqfdkmiVY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Caminando derecha/izquierda / Jobbra-balra",
+    "slug": "caminando-derecha-izquierda",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/caminando-derecha-izquierda",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Caminando p'alante/p'atras / Előre-hátra",
+    "slug": "caminando-palante-patras",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/caminando-palante-patras",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/UkK9_Hk9yfc?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Mambo",
+    "slug": "mambo",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/mambo",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Elől kereszt / Front cross",
+    "slug": "front-cross",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/front-cross",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Hátul kereszt / Back cross",
+    "slug": "back-cross",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/back-cross",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Tánc etikett / dance-etiquette",
+    "slug": "dance-etiguette",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dance-etiguette",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Para el medio",
+    "slug": "para-el-medio",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/para-el-medio",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/TVRdwR9btfQ?rel=0",
+      "https://www.youtube.com/embed/BZ8XdzqDdNg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Vamos abajo",
+    "slug": "vamos-abajo",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/vamos-abajo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/-VuidwLA5fY?rel=0",
+      "https://www.youtube.com/embed/BZ8XdzqDdNg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Exhibela / vuelta",
+    "slug": "exhibela",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/exhibela",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/se5_vIC97og?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Exhibela doble",
+    "slug": "exhibela-doble",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/exhibela-doble",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/9BpKuXVT1yw?rel=0",
+      "https://www.youtube.com/embed/se5_vIC97og?rel=0",
+      "https://www.youtube.com/embed/l0iNZvtDGtk?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Di le que sí",
+    "slug": "di-le-que-si",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/di-le-que-si",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/rCmCKE96zRs?rel=0",
+      "https://www.youtube.com/embed/uqkO_QL9Vyc?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Di le que sí doble",
+    "slug": "di-le-que-si-doble",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/di-le-que-si-doble",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/hJPK-oynLQs?rel=0",
+      "https://www.youtube.com/embed/MNPq-EFXNRY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Di le que no",
+    "slug": "di-le-que-no",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/di-le-que-no",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/VV_VC2-_Zz0?rel=0",
+      "https://www.youtube.com/embed/-VuidwLA5fY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Guapeia / Casino",
+    "slug": "guapeia",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/guapeia",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/121kBmOpF40?rel=0",
+      "https://www.youtube.com/embed/F5Uwqf6DG4k?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Guapeia - kinyitás",
+    "slug": "guapeia2",
+    "type": "ELEMENTOS",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/guapeia2",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/GoPsokY__9A?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "4 -es lépés / step '4'",
+    "slug": "step4",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/step4",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Kubai alap / basico cubano",
+    "slug": "basic-cubano",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/basic-cubano",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/_A3gaheURvo?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Forgások / rounde turn/evelyn",
+    "slug": "evelyn",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/evelyn",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Exhibela complicado",
+    "slug": "exhibela-complicado",
+    "type": "ELEMENTOS",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/exhibela-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/xz-C0MqOOls?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Balra forgás / left turn",
+    "slug": "left-turn",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/left-turn",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/A4nZX22rRDA?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Coca cola turn",
+    "slug": "coca-cola",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/coca-cola",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/DO4X-Jemhs8?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Coca cola por atras",
+    "slug": "coca-cola-por-atras",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/coca-cola-por-atras",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/AGVVD1YeaQo?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Vuelta",
+    "slug": "vuelta",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/vuelta",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/j9Kc2muGqYI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Suzy Q",
+    "slug": "suzy-q",
+    "type": "ELEMENTOS",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/suzy-q",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/5Uip9l27qGI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Camina(la)",
+    "slug": "caminala",
+    "type": "ELEMENTOS",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/caminala",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/BaAN-B9bc8k?rel=0",
+      "https://www.youtube.com/embed/hoX6Xb0ltgM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Kar alatti forgás / Hombres - Mujeres",
+    "slug": "hombres-mujeres",
+    "type": "ELEMENTOS",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/hombres-mujeres",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/GA0ari-4CwU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Estacion nuevo",
+    "slug": "estacion-nuevo",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/estacion-nuevo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/G4KKsXnDic0?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Mujeres Sacala",
+    "slug": "mujeres-sacala",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/mujeres-sacala",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/rG7CP188NeI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Enchufla con reggaeton",
+    "slug": "enchufla-con-reggaeton",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-con-reggaeton",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/wYaUifcSkbU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Enchufla con pelota",
+    "slug": "enchufla-con-pelota",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-con-pelota",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/LASpXOtDVJs?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Enchufla con hipp-hopp",
+    "slug": "enchufla-con-hipp-hopp",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-con-hipp-hopp",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/w_VoIQjP4u4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Enchufla",
+    "slug": "enchufla",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/K6MyAuTmhJ4?rel=0",
+      "https://www.youtube.com/embed/o45PSYQSO94?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Enchufla doble",
+    "slug": "enchufla-doble",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-doble",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/PziuiYbcR9I?rel=0",
+      "https://www.youtube.com/embed/-Bc5UYBg_iM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Enchufla de mentira",
+    "slug": "enchufla-de-mentira",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-de-mentira",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/QvQ5r2ZijB4?rel=0",
+      "https://www.youtube.com/embed/l0iNZvtDGtk?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Candado",
+    "slug": "candado",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/candado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/IuF3-ekqqAk?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Candado y exhibela complicado",
+    "slug": "candado-y-exhibela-complicado",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/candado-y-exhibela-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/KRFSCKnfJ64?rel=0",
+      "https://www.youtube.com/embed/L2LpqkMVmaQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Pa' ti pa' mi",
+    "slug": "pa-ti-pa-mi",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/pa-ti-pa-mi",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/ZClEoKkFfVM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "El uno (1)",
+    "slug": "el-uno",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-uno",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/vcrGXUsPJHQ?rel=0",
+      "https://www.youtube.com/embed/8vMbieXl1LY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Dieciséis (16)",
+    "slug": "dieciseis",
+    "type": "ENCHUFLA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dieciseis",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/y_wEs9j-LHg?rel=0",
+      "https://www.youtube.com/embed/8dekiPyIM88?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Kentucky",
+    "slug": "kentucky",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/kentucky",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/K8jKw9HIxz4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "La habana",
+    "slug": "la-habana",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/la-habana",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/oEKOwADBAfo?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "vacilon",
+    "slug": "vacilon",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/vacilon",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/01BnmII0yPI?rel=0",
+      "https://www.youtube.com/embed/wsvGglwgQYQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Rucola",
+    "slug": "rucola",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/rucola",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/3UnNRSzcn-0?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Tu cola",
+    "slug": "tu-cola",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/tu-cola",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/CJh1whQKY9g?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Puente",
+    "slug": "puente",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/puente",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/zdbpbashLWU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "El dos",
+    "slug": "el-dos",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-dos",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/VTeXCCAtkEw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "El doce (12)",
+    "slug": "el-doce",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-doce",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/N7B4YT0nJQI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Enchufla moderno",
+    "slug": "enchufla-moderno",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-moderno",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/-Nhcmga-Ysw?rel=0",
+      "https://www.youtube.com/embed/rtbgGuh4Ryw?rel=0",
+      "https://www.youtube.com/embed/maIE7ZcKLpo?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "enchufla picante",
+    "slug": "enchufla-picante",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-picante",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/OLd0FdhcA24?rel=0",
+      "https://www.youtube.com/embed/Yp4BUX0iPzo?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "la guardia",
+    "slug": "la-guardia",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/la-guardia",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/xHv-EhzbNg8?rel=0",
+      "https://www.youtube.com/embed/wzASrBQ38Mo?rel=0",
+      "https://www.youtube.com/embed/yQsYZ4MtSOU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Pon le sabor",
+    "slug": "pon-le-sabor",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/pon-le-sabor",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/VTeXCCAtkEw?rel=0",
+      "https://www.youtube.com/embed/W-qOuKZJGnA?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Enchufla con mambo con quatro",
+    "slug": "enchufla-con-mambo-con-quatro",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-con-mambo-con-quatro",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/IFBb18xgRik?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Tres Sabores",
+    "slug": "tres-sabores",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/tres-sabores",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/ZqF0M4gvfg0?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "kentucky complicado",
+    "slug": "kentucky-complicado",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/kentucky-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/6gFSTGYaBs8?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "guanabo",
+    "slug": "guanabo",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/guanabo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/PGWXZoigmJY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Machucho",
+    "slug": "machucho",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/machucho",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/VTeXCCAtkEw?rel=0",
+      "https://www.youtube.com/embed/W-qOuKZJGnA?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Camaguey",
+    "slug": "camaguey",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/camaguey",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "El lazo",
+    "slug": "el-lazo",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-lazo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/e3ItuC0NbSk?rel=0",
+      "https://www.youtube.com/embed/35CPFKcw-kg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Infanta",
+    "slug": "infanta",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/infanta",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/h7TeV8roNg4?rel=0",
+      "https://www.youtube.com/embed/pl5dQcakoz8?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Enchufla con caminala",
+    "slug": "enchufla_con_caminala",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla_con_caminala",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/qG5keuTA_pQ?rel=0",
+      "https://www.youtube.com/embed/cDObOkzUrxw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Enchufla con el swing",
+    "slug": "enchufla-con-el-swing",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/video/enchufla-con-el-swing",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/SXPbw25Uroo?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Enchufla con rock you",
+    "slug": "enchufla-con-rock-you",
+    "type": "ENCHUFLA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/video/enchufla-con-rock-you",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/Ukgh8tLLFG4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Estacion",
+    "slug": "estacion",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/estacion",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/oc_so7YunAQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Moliendo cafe",
+    "slug": "moliendo-cafe",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/moliendo-cafe",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/rJQx33f_r2w?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Enchufla moderno y coca cola",
+    "slug": "enchufla-moderno-y-coca-cola",
+    "type": "ENCHUFLA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-moderno-y-coca-cola",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/2QkQT88RRYM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Tio Vivo",
+    "slug": "tio-vivo",
+    "type": "VACILA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/tio-vivo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/st_9Md_wsP4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Mojito",
+    "slug": "mojito",
+    "type": "VACILA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/mojito",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/KFjr10RIOJk?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "cinquenta",
+    "slug": "cinquenta",
+    "type": "VACILA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/cinquenta",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/Det2m3MZt40?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Vacila",
+    "slug": "vacila",
+    "type": "VACILA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/vacila",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/1AxFzv6rWSE?rel=0",
+      "https://www.youtube.com/embed/sYrQHCOFDXI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Vacilala",
+    "slug": "vacilala",
+    "type": "VACILA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/vacilala",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/1AxFzv6rWSE?rel=0",
+      "https://www.youtube.com/embed/IQ09f8MazRQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Vacila con dos manos",
+    "slug": "vacila-con-dos-manos",
+    "type": "VACILA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/vacila-con-dos-manos",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/OJmVGuIdpRY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "vacila loco",
+    "slug": "vacila-loco",
+    "type": "VACILA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/vacila-loco",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Vacilense los dos",
+    "slug": "vacilense-los-dos",
+    "type": "VACILA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/vacilense-los-dos",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/ZLwjPLXOeGg?rel=0",
+      "https://www.youtube.com/embed/69INnH_L5qM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Coco",
+    "slug": "coco",
+    "type": "VACILA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/coco",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/5bjk_I7q3CQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Coco loco",
+    "slug": "coco-loco",
+    "type": "VACILA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/coco-loco",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Vacila con dos manos y casate",
+    "slug": "vacila-con-dos-manos-y-casate",
+    "type": "VACILA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/vacila-con-dos-manos-y-casate",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/GxHF7E8r0us?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "vacila doble",
+    "slug": "vacila-doble",
+    "type": "VACILA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/vacila-doble",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/4GObiZsxYf4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Sorpresa",
+    "slug": "sorpresa",
+    "type": "VACILA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sorpresa",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/wxgHU7iz4_0?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Thalia",
+    "slug": "thalia",
+    "type": "VACILA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/thalia",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/3s1xtt--cxY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Michaela",
+    "slug": "michaela",
+    "type": "VACILA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/michaela",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/4r2NQOoDW5w?rel=0",
+      "https://www.youtube.com/embed/ITgces8UmPI?rel=0",
+      "https://www.youtube.com/embed/qM2GGckMAPk?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Mona Lisa",
+    "slug": "mona-lisa",
+    "type": "VACILA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/mona-lisa",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/zV-MxHVt_8E?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "El nino",
+    "slug": "el-nino",
+    "type": "VACILA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-nino",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/x6osodWAf_M?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Michaela complicado",
+    "slug": "michaela-complicado",
+    "type": "VACILA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/michaela-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/ueSm3YLIkxw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Vacila loco complicado",
+    "slug": "vacila-loco-complicado",
+    "type": "VACILA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/vacila-loco-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/f1O_-cGd5bs?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta con medio",
+    "slug": "setenta-con-medio",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-con-medio",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/FiknItoFE1E?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta con cruce",
+    "slug": "setenta-con-cruce",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-con-cruce",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/29W8T3hbyxA?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta doble complicado",
+    "slug": "setenta-doble-complicado",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-doble-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/3fKUbVlD8Dk?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setesientos",
+    "slug": "setesientos",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setesientos",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/kRJ2aFf80Xk?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta",
+    "slug": "setenta",
+    "type": "SETENTA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/pFBNJC6E2HM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "setenta con alarde",
+    "slug": "setenta-con-alarde",
+    "type": "SETENTA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-con-alarde",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/rEHH7zKQR6E?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta con alarde gancho y gancho",
+    "slug": "setenta-con-alarde-gancho-y-gancho",
+    "type": "SETENTA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-con-alarde-gancho-y-gancho",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/hXsAMTeqlVg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta y exhibela",
+    "slug": "setenta-y-exhibela",
+    "type": "SETENTA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-y-exhibela",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/sMs9_MhVeZw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta complicado",
+    "slug": "setenta-complicado",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/hXsAMTeqlVg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta al reves",
+    "slug": "setenta-al-reves",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-al-reves",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/g90r5wiLlQQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta Nuevo",
+    "slug": "setenta-nuevo",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-nuevo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/TmFQsNJd97o?rel=0",
+      "https://www.youtube.com/embed/VTeXCCAtkEw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "El Salao",
+    "slug": "el-salao",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-salao",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/-yO8xiINqr0?rel=0",
+      "https://www.youtube.com/embed/6UmoyLFvwFo?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Noventa",
+    "slug": "noventa",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/noventa",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/3WZAeXF79Z8?rel=0",
+      "https://www.youtube.com/embed/zKKn0iac8-o?rel=0",
+      "https://www.youtube.com/embed/VTeXCCAtkEw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "El mostro",
+    "slug": "el-mostro",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-mostro",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/ZyNeHD_3HMA?rel=0",
+      "https://www.youtube.com/embed/vnXWxjmE6sI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta doble",
+    "slug": "setenta-doble",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-doble",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/eWvZ_SOv7Rs?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta con coca cola",
+    "slug": "setenta-con-coca-cola",
+    "type": "SETENTA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-con-coca-cola",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/XcI9D6pgBCM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Cruce",
+    "slug": "cruce",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/cruce",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/hv9mVtOJ1lM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "El malecon",
+    "slug": "el-malecon",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-malecon",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/E5D3GxGO_HU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "La Mayi",
+    "slug": "la-mayi",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/la-mayi",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/GBWHZNzb27E?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "La tijera",
+    "slug": "la-tijera",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/la-tijera",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/JJnOsP-EJHU?rel=0",
+      "https://www.youtube.com/embed/9yElyNhC6C8?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "el calvo",
+    "slug": "el-calvo",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-calvo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/lXhCdTpu_lA?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta y pico",
+    "slug": "setenta-y-pico",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-y-pico",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/bOV05p6VH8w?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "La tuja",
+    "slug": "la-tuja",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/la-tuja",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/WOBlt_yFC4U?rel=0",
+      "https://www.youtube.com/embed/zL27PhdQCgw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta con setenta complicado",
+    "slug": "setenta-con-setenta-complicado",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-con-setenta-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/fm-aGyk9G-8?rel=0",
+      "https://www.youtube.com/embed/W-qOuKZJGnA?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "setenta nuevo complicado",
+    "slug": "setenta-nuevo-complicado",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-nuevo-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/PIVoOOo4gu4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta con setenta",
+    "slug": "setenta-con-setenta",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-con-setenta",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/_pWeNkKu7ik?rel=0",
+      "https://www.youtube.com/embed/ub6WJvWcaFk?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Arcoiris",
+    "slug": "arcoiris",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/arcoiris",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/mmYsHLww1UY?rel=0",
+      "https://www.youtube.com/embed/2U6zNOWQkzY?rel=0",
+      "https://www.youtube.com/embed/pFBNJC6E2HM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Abrazo",
+    "slug": "abrazo",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/abrazo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/DymOkVfHzr4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Medio noche",
+    "slug": "Medio-noche",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/Medio-noche",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/bHnpjjHaRv0?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Medio noche",
+    "slug": "medio-noche",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/medio-noche",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/bHnpjjHaRv0?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Mantequilla",
+    "slug": "mantequilla",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/mantequilla",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/E_jc_FBXrfI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta complicado ala Cubanissimo",
+    "slug": "setenta-complicado-ala-cubanissimo",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-complicado-ala-cubanissimo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/lxCvTkvJRtI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "el Balance",
+    "slug": "balance",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/balance",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/-eZhLUhMJ2c?rel=0",
+      "https://www.youtube.com/embed/8XjrjYGwzig?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta y cinco",
+    "slug": "setenta-y-cinco",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-y-cinco",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/mnVrgozDRks?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta y cinco complicado",
+    "slug": "setenta-y-cinco-complicado",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-y-cinco-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/QMCZYdJhNPw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta por debajo",
+    "slug": "setenta-por-debajo",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-por-debajo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/a7iPHyzESdo?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta con alarde con alarde",
+    "slug": "setenta-con-alarde-con-alarde",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/video/setenta-con-alarde-con-alarde",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/p8GAUXC_7ao?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Cobra",
+    "slug": "cobra",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/cobra",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/-Oo27Dbjqu4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Supermario",
+    "slug": "supermario",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/supermario",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/OgJJktvd3Gg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta loco",
+    "slug": "setenta-loco",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-loco",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/ofLks5eqkyA?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Pedro navaja",
+    "slug": "pedro-navaja",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/pedro-navaja",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/17JME5LOR_k?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta saco atras",
+    "slug": "setenta-saco-atras",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-saco-atras",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/jaCCt-j7YN4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "20170518 Peti és Szandi",
+    "slug": "20170518",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/20170518",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/Bg3HPQUvO7U?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta con picante",
+    "slug": "setenta-con-picante",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-con-picante",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/jHhzMMpfytQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta moderno",
+    "slug": "setenta-moderno",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-moderno",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/_r8ZMCRVzis?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Cubanissimo",
+    "slug": "cubanissimo",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/cubanissimo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/W-qOuKZJGnA?rel=0",
+      "https://www.youtube.com/embed/YfFQiNXn0X4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta por abajo",
+    "slug": "setenta-por-abajo",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-por-abajo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/IVCgvLyU_ww?rel=0",
+      "https://www.youtube.com/embed/TVkT5KOhuZ0?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Calle Real",
+    "slug": "calle-real",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/calle-real",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/8fqrTWxI_gU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Setenta con Siete",
+    "slug": "setenta-con-siete",
+    "type": "SETENTA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-con-siete",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/w7aX7VOduVk?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Siete por atras es stylo cubano",
+    "slug": "siete-por-atras-es-stylo-cubano",
+    "type": "SIETE",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/siete-por-atras-es-stylo-cubano",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/POpXFQMqJDg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Siete",
+    "slug": "siete",
+    "type": "SIETE",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/siete",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/tOxzb3rMrxU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Siete doble",
+    "slug": "siete-doble",
+    "type": "SIETE",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/siete-doble",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/OMjKHqItsDg?rel=0",
+      "https://www.youtube.com/embed/glekrtLdS4g?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Panque",
+    "slug": "panque",
+    "type": "SIETE",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/panque",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/vWDWMBEVhYQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Siete con coca cola",
+    "slug": "siete-con-coca-cola",
+    "type": "SIETE",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/siete-con-coca-cola",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/wsdP7dxkhVQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Siete Moderno",
+    "slug": "siete-moderno",
+    "type": "SIETE",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/siete-moderno",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/7dSTIt3YXm0?rel=0",
+      "https://www.youtube.com/embed/EJLTqJh9dfQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Siete loco",
+    "slug": "siete-loco",
+    "type": "SIETE",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/siete-loco",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/pIBGt-5oae8?rel=0",
+      "https://www.youtube.com/embed/vfTdN6SrQmY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Siete loco complicado",
+    "slug": "siete-loco-complicado",
+    "type": "SIETE",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/siete-loco-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/oWPiTVsLZSo?rel=0",
+      "https://www.youtube.com/embed/-nuAJfjxb7o?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Siete magniv",
+    "slug": "siete-magniv",
+    "type": "SIETE",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/siete-magniv",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/C38yAdWuAi4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "La cuadra",
+    "slug": "la-cuadra",
+    "type": "SIETE",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/la-cuadra",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/jK2hI1R-o0I?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Spaghetti",
+    "slug": "spaghetti",
+    "type": "SIETE",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/spaghetti",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "La cuadra complicado",
+    "slug": "la-cuadra-complicado",
+    "type": "SIETE",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/la-cuadra-complicado",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Tocinillo",
+    "slug": "tocinillo",
+    "type": "SIETE",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/tocinillo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/mZff-ErArYI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Siete alborotado",
+    "slug": "siete-alborotado",
+    "type": "SIETE",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/siete-alborotado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/L0X_xqTCnG0?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Babosa",
+    "slug": "babosa",
+    "type": "SIETE",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/babosa",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/4T3Z7nzLQgk?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Babosa doble",
+    "slug": "babosa-doble",
+    "type": "SIETE",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/babosa-doble",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/RkXyN_8Mu7k?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Siete por atras",
+    "slug": "siete-por-atras",
+    "type": "SIETE",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/siete-por-atras",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/01LthlZZKJQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "el Tunel",
+    "slug": "el-tunel",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-tunel",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/HimHQSrVmyI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Saoko",
+    "slug": "saoko",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/saoko",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/aOXeerJxq7w?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Romantic",
+    "slug": "romantic",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/romantic",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/B_KBUxMnGuc?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Sombrero",
+    "slug": "sombrero",
+    "type": "SOMBRERO",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sombrero",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/dr_4h0V9wUU?rel=0",
+      "https://www.youtube.com/embed/RfLOS6RyXeg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Sombrero con mambo",
+    "slug": "sombrero-con-mambo",
+    "type": "SOMBRERO",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sombrero-con-mambo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/mLDvtPkYnBQ?rel=0",
+      "https://www.youtube.com/embed/nvgMG8QaLJI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Balsero",
+    "slug": "balsero",
+    "type": "SOMBRERO",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/balsero",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/hXsAMTeqlVg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Sombero de Jackson",
+    "slug": "sombrero-de-jackson",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sombrero-de-jackson",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/bdxC2cq7rUY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Sombrero Doble",
+    "slug": "sombrero-doble",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sombrero-doble",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/pFBNJC6E2HM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Juana la Cubana",
+    "slug": "juana-la-cubana",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/juana-la-cubana",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/hXsAMTeqlVg?rel=0",
+      "https://www.youtube.com/embed/pFBNJC6E2HM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Ochenta y ocho (88)",
+    "slug": "ochenta-y-ocho",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/ochenta-y-ocho",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/pFBNJC6E2HM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Abanico / Legyező",
+    "slug": "abanico",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/abanico",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/ln93CH9fXeI?rel=0",
+      "https://www.youtube.com/embed/rsg2GKh6A7Q?rel=0",
+      "https://www.youtube.com/embed/VTeXCCAtkEw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Besito / Un Beso",
+    "slug": "besito",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/besito",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/hXsAMTeqlVg?rel=0",
+      "https://www.youtube.com/embed/pFBNJC6E2HM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "dos besos / Besito doble",
+    "slug": "dos-besos",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dos-besos",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/IfBDT2takIg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "ochenta y uno (81)",
+    "slug": "ochenta-y-uno",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/ochenta-y-uno",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/3doR-Wok2dY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Montana",
+    "slug": "montana",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/montana",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/R2auxwkjNbQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Juana la Italiana",
+    "slug": "juana-la-italiana",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/juana-la-italiana",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/yiG1qZDe9Pg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Gaviota",
+    "slug": "gaviota",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/gaviota",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/_Khpaae6wYY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Fin winter",
+    "slug": "fin-winter",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/fin-winter",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/zCQQQlrot70?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "fin presa",
+    "slug": "fin-presa",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/fin-presa",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/Wb9r36y4fT0?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Reverencia",
+    "slug": "reverencia",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/reverencia",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/-iVU92eTGxM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Sombrero con coca cola",
+    "slug": "sombrero-con-coca-cola",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sombrero-con-coca-cola",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/feEKl002LhI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Abanico complicado",
+    "slug": "abanico-complicado",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/abanico-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/F4-pmViotw4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Sombrero por debajo",
+    "slug": "sombrero-por-debajo",
+    "type": "SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sombrero-por-debajo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/axbI_nyEamo?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Bebe",
+    "slug": "bebe",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/bebe",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/8F7qOcr54wE?rel=0",
+      "https://www.youtube.com/embed/jjCfTtiKr14?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Sombrero complicado",
+    "slug": "sombrero-complicado",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sombrero-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/BJ7cDC1REzo?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Agamenon",
+    "slug": "agamenon",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/agamenon",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/ai7JoNPQCXw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Sombrero por debajo complicado",
+    "slug": "sombrero-por-debajo-complicado",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sombrero-por-debajo-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/IvEJb6bUDFc?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "La Rosa",
+    "slug": "la-rosa",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/la-rosa",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/h1k4m6QmJLk?rel=0",
+      "https://www.youtube.com/embed/Gs-88m5T_8k?rel=0",
+      "https://www.youtube.com/embed/HiXRlvrBLJA?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Niagara",
+    "slug": "niagara",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/niagara",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/-o3U9KIsHXw?rel=0",
+      "https://www.youtube.com/embed/Wvey2tPbXP4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Sombrero doble complicado",
+    "slug": "sombrero-doble-complicado",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sombrero-doble-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/5kvT38kDPdU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "La Rubenada",
+    "slug": "la-rubenada",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/la-rubenada",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/BONWA3mQbW8?rel=0",
+      "https://www.youtube.com/embed/5bjk_I7q3CQ?rel=0",
+      "https://www.youtube.com/embed/YfFQiNXn0X4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "El duque",
+    "slug": "el-duque",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-duque",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/RxInhQtYJMA?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Montana rusa",
+    "slug": "montana-rusa",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/montana-rusa",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/fx3xiMuXNz8?rel=0",
+      "https://www.youtube.com/embed/JI4Gz-ghwW4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Ahorcala",
+    "slug": "ahorcala",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/ahorcala",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/dbzBprBZLSs?rel=0",
+      "https://www.youtube.com/embed/uKiNmaubLeU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Balsero complicado",
+    "slug": "balsero-complicado",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/balsero-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/GhvWQxe-FZM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Club Taco",
+    "slug": "club-taco",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/club-taco",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/CfhQs3u4z3c?rel=0",
+      "https://www.youtube.com/embed/6UmoyLFvwFo?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "ochenta y cinco (85)",
+    "slug": "ochenta-y-cinco",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/ochenta-y-cinco",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/C-2hvXb_LwM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "la Rubenada complicado",
+    "slug": "la-rubenada-complicado",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/la-rubenada-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/l3HhSKCryxU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "sombrero de manny",
+    "slug": "sombrero-de-manny",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sombrero-de-manny",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/zETIb5PYUrA?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "el nudo del DJ",
+    "slug": "el-nudo-del-dj",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-nudo-del-dj",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/27LpPn0PO7k?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "sombrero enganchado",
+    "slug": "sombrero-enganchado",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sombrero-enganchado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/mSHM5_Fx_SI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Sombero de guano",
+    "slug": "sombero-de-guano",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sombero-de-guano",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/D5yysTVbk7M?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Sombrero de Lucy",
+    "slug": "sombrero-de-lucy",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sombrero-de-lucy",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/d4S--W-kqlw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "vuela vuela",
+    "slug": "vuela-vuela",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/vuela-vuela",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/EAxCvmw3k84?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Sombrero por abajo largo",
+    "slug": "sombrero-por-abajo-largo",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sombrero-por-abajo-largo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/P15WG0mfjJk?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Arana",
+    "slug": "arana",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/arana",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/aVWQtLuMCw0?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Ochenta",
+    "slug": "ochenta",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/ochenta",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/3MJ8YWt0mrU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Ochenta abajo",
+    "slug": "ochenta-abajo",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/ochenta-abajo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/vH0-8ZIP1PU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Juan el cubanito",
+    "slug": "juana-la-cubanito",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/juana-la-cubanito",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/lKFkKsXudv8?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Sombrero nuevo",
+    "slug": "sombrero-nuevo",
+    "type": "SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sombrero-nuevo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/cjOnA9JfZ-U?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "dedo guarapo y bota con vuelta",
+    "slug": "dedo-guarapo-y-bota-con-vuelta",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dedo-guarapo-y-bota-con-vuelta",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/TxtaOvCefz4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Adios con la familia ala Cubanismo",
+    "slug": "adios-con-la-familia-ala-cubanismo",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/adios-con-la-familia-ala-cubanismo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/anvIHdN_jt0?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "El nueve (9)",
+    "slug": "el-nueve",
+    "type": "RUEDA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-nueve",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/XJviyLEwOJY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "el seis (6)",
+    "slug": "el-seis",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-seis",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/--_1Ff2b2nY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "el zero (0) / Enchufla con el zero (0)",
+    "slug": "el-zero",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-zero",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/QfkaDtycxEQ?rel=0",
+      "https://www.youtube.com/embed/M6iCMJfE4K8?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "un tarrito",
+    "slug": "un-tarrito",
+    "type": "RUEDA",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/un-tarrito",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "un tarrito de mentira",
+    "slug": "un-tarrito-de-mentira",
+    "type": "RUEDA",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/un-tarrito-de-mentira",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Dame",
+    "slug": "dame",
+    "type": "RUEDA",
+    "level": "beginer1",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dame",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/F5Uwqf6DG4k?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "dame de mentira",
+    "slug": "dame-de-mentira",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dame-de-mentira",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Dame con una/dos",
+    "slug": "dame-con-una",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dame-con-una",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Dame con mambo",
+    "slug": "dame-con--mambo",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dame-con--mambo",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "The fly",
+    "slug": "the-fly",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/the-fly",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/TOAf-ItNnW4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "The fly moderno",
+    "slug": "the-fly-moderno",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/the-fly-moderno",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/OtPqVQr6rAM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Vacilala y dame",
+    "slug": "vacilala-y-dame",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/vacilala-y-dame",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Tres fly",
+    "slug": "tres-fly",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/tres-fly",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/8X3dg0xx8m8?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Cinco fly",
+    "slug": "cinco-fly",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/cinco-fly",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/axPtqZoXTNM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Dos fly",
+    "slug": "dos-fly",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dos-fly",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/j2L1KS4izmg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "The fly complicado",
+    "slug": "the-fly-complicado",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/the-fly-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/4U4n41YO1EY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Enchufla con una/dos",
+    "slug": "Enchufla-con-una",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/Enchufla-con-una",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "la policia / … de mentira",
+    "slug": "la-policia",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/la-policia",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/4uav36FRsWI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "la policia mujeres / … de mentira",
+    "slug": "la-policia-mujeres",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/la-policia-mujeres",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/c0Wz7quvbVA?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Matala",
+    "slug": "matala",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/matala",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/tQgwB8c3Iiw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "foto",
+    "slug": "foto",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/foto",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "castigala",
+    "slug": "castigala",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/castigala",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "mosquito",
+    "slug": "mosquito",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/mosquito",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "enchufla con king-kong",
+    "slug": "enchufla-con-king-kong",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-con-king-kong",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/CwiogQOTvhI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Enchufla con hip-hop",
+    "slug": "enchufla-con-hip-hop",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-con-hip-hop",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/QJTGj5Gv3vM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Directo",
+    "slug": "directo",
+    "type": "RUEDA",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/directo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/zMlIQHxhRbs?rel=0",
+      "https://www.youtube.com/embed/qP6d2DZCQRE?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Enchufla arriba",
+    "slug": "enchufla-arriba",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-arriba",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/jbY98PY3euA?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Dame dos",
+    "slug": "dame-dos",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dame-dos",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Dame dos con dos",
+    "slug": "dame-dos-con-dos",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dame-dos-con-dos",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Dame con coca cola",
+    "slug": "dame-con-coca-cola",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dame-con-coca-cola",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/2pxJL4-nl8I?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "dame y no le llegues",
+    "slug": "dame-y-no-le-llegues",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dame-y-no-le-llegues",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/_Ae4qTlOk9o?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Adios con la hermana y la familia",
+    "slug": "adios-con-la-hermana-y-la-familia",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/adios-con-la-hermana-y-la-familia",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/Ta1AiZNggl8?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "dame arriba",
+    "slug": "dame-arriba",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dame-arriba",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "enchufla con mambo",
+    "slug": "enchufla-con-mambo",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-con-mambo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/joblbLoSv_o?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "enchufla con clave",
+    "slug": "enchufla-con-clave",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-con-clave",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/2pb6GxKl_h4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "enchufla con avion / … de mentira",
+    "slug": "enchufla-con-avion",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-con-avion",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/g1sgf1F7EtQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "enchufla con rumba",
+    "slug": "enchufla-con-rumba",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/enchufla-con-rumba",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/sQE9LxQMVCs?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Pelota / enchufla con vuelta",
+    "slug": "pelota",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/pelota",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/eRD_wR5ylXc?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "pelota con una",
+    "slug": "pelota-con-una",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/pelota-con-una",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/2eXP8sern7w?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Pelota con quatro",
+    "slug": "pelota-con-quatro",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/pelota-con-quatro",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/rCxqwE5lvss?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "dedo guarapo y bota",
+    "slug": "dedo-guarapo-y-bota",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dedo-guarapo-y-bota",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/OzpN6cwbpxE?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "varones al medio",
+    "slug": "varones-al-medio",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/varones-al-medio",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "mujeres/hombres izquierda/derecha",
+    "slug": "mujeres-hombres-izquierda-derecha",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/mujeres-hombres-izquierda-derecha",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Engana la",
+    "slug": "engana-la",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/engana-la",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/5kMqtEb3Cdg?rel=0",
+      "https://www.youtube.com/embed/_9zgzrSdiQg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Pelota con dos",
+    "slug": "pelota-con-dos",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/pelota-con-dos",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/4Vm4OdMAQkQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "la flor",
+    "slug": "la-flor",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/la-flor",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "train",
+    "slug": "train",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/train",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Directo doble",
+    "slug": "directo-doble",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/directo-doble",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "3 way stop",
+    "slug": "3-way-stop",
+    "type": "RUEDA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/3-way-stop",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/00dgmraY4IU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "el ocho (8)",
+    "slug": "el-ocho",
+    "type": "RUEDA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-ocho",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/WxNFBJ0KNWg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "el ocho complicado",
+    "slug": "el-ocho-complicado",
+    "type": "RUEDA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-ocho-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/eMXhQ8EAvNo?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "cadena",
+    "slug": "cadena",
+    "type": "RUEDA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/cadena",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "cadeneta",
+    "slug": "cadeneta",
+    "type": "RUEDA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/cadeneta",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "paseala por el parque",
+    "slug": "paseala-por-el-parque",
+    "type": "RUEDA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/paseala-por-el-parque",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/qr-u4Ki7YM8?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "sambuca",
+    "slug": "sambuca",
+    "type": "RUEDA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sambuca",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/Jvd15asADoc?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "dame y coca cola por atras",
+    "slug": "dame-y-coca-cola-por-atras",
+    "type": "RUEDA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dame-y-coca-cola-por-atras",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/POTm1FVfb-c?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Tunel",
+    "slug": "tunel",
+    "type": "RUEDA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/tunel",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/21sVf6-Qdcw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Lauron",
+    "slug": "lauron",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/lauron",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/yXccy3eCW3A?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "la confusion",
+    "slug": "la confusion",
+    "type": "RUEDA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/la confusion",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "puente complicado",
+    "slug": "puente-complicado",
+    "type": "RUEDA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/puente-complicado",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Manolete",
+    "slug": "manolete",
+    "type": "RUEDA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/video/manolete",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/OWzVANDMQIU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Paseala",
+    "slug": "paseala",
+    "type": "PASEALA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/paseala",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/L6XgcRN2-O4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Paseala por arriba",
+    "slug": "paseala-por-arriba",
+    "type": "PASEALA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/paseala-por-arriba",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/57ttOjkTsgE?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "paseala complicado",
+    "slug": "paseala-complicado",
+    "type": "PASEALA",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/paseala-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/pZiJAKNBOTc?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "La Jenny",
+    "slug": "la-jenny",
+    "type": "PASEALA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/la-jenny",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/NoHBqnhNOVQ?rel=0",
+      "https://www.youtube.com/embed/UU7rUCNKRt4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Copelia",
+    "slug": "copelia",
+    "type": "PASEALA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/copelia",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/BDSMWF5n_Mo?rel=0",
+      "https://www.youtube.com/embed/X20cGHmSLQg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Copelia complicado",
+    "slug": "copelia-complicado",
+    "type": "PASEALA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/copelia-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/EdaAWmBTGlY?rel=0",
+      "https://www.youtube.com/embed/X20cGHmSLQg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Paseala y paraejala",
+    "slug": "paseala-y-paraejala",
+    "type": "PASEALA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/paseala-y-paraejala",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Paseala con coca cola",
+    "slug": "paseala-con-coca-cola",
+    "type": "PASEALA",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/paseala-con-coca-cola",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/5wTnDJcUHIY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Adios",
+    "slug": "adios",
+    "type": "ADIOS",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/adios",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Adios de mentira",
+    "slug": "adios-de-mentira",
+    "type": "ADIOS",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/adios-de-mentira",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/-xiIFEMg_w4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Adios con la hermana",
+    "slug": "adios-con-la-hermana",
+    "type": "ADIOS",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/adios-con-la-hermana",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/X0-8PCvg_y4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Adios con la hermana y la prima",
+    "slug": "adios-con-le-hermana-y-la-prima",
+    "type": "ADIOS",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/adios-con-le-hermana-y-la-prima",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/--giTA6do84?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "adios arriba",
+    "slug": "adios-arriba",
+    "type": "ADIOS",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/adios-arriba",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/l_AoncjZNyI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "adios con la familia",
+    "slug": "adios-con-la-familia",
+    "type": "ADIOS",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/adios-con-la-familia",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "adios con la familia y arriba",
+    "slug": "adios-con-la-familia-y-arriba",
+    "type": "ADIOS",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/adios-con-la-familia-y-arriba",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Adios Doble",
+    "slug": "adios-doble",
+    "type": "ADIOS",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/adios-doble",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/5bjk_I7q3CQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "medio sombrero / medio sombrero y exhibela",
+    "slug": "medio-sombrero",
+    "type": "MEDIO-SOMBRERO",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/medio-sombrero",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/AI2952m_Drk?rel=0",
+      "https://www.youtube.com/embed/i6w31wRHCGE?rel=0",
+      "https://www.youtube.com/embed/W21SAKguszU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Gloria",
+    "slug": "gloria",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/gloria",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/CDHhIxS1OUA?rel=0",
+      "https://www.youtube.com/embed/pFBNJC6E2HM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Abrazala",
+    "slug": "abrazala",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/abrazala",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/qoTEPO0_38w?rel=0",
+      "https://www.youtube.com/embed/0_OdaMWNyZw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Dedo",
+    "slug": "dedo",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dedo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/0R7dtOZcmsc?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Dedo con evelyn",
+    "slug": "dedo-con-evelyn",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dedo-con-evelyn",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/eSACVUwGjeg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Dedo saboreado",
+    "slug": "dedo-saboreado",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dedo-saboreado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/TWYzbaT5Jaw?rel=0",
+      "https://www.youtube.com/embed/u6dDHnTc_rM?rel=0",
+      "https://www.youtube.com/embed/DurW_uKjbvY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "El sordo",
+    "slug": "el-sordo",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-sordo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/iLZFmxS_8lM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Gloria el gancho",
+    "slug": "gloria-el-gancho",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/gloria-el-gancho",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Tornillo",
+    "slug": "tornillo",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/tornillo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/RF2k8mTbgUQ?rel=0",
+      "https://www.youtube.com/embed/6UmoyLFvwFo?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Colon",
+    "slug": "colon",
+    "type": "MEDIO-SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/colon",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/Nq4vysWktsc?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Acaso",
+    "slug": "acaso",
+    "type": "MEDIO-SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/acaso",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/b2JC5nbNtgY?rel=0",
+      "https://www.youtube.com/embed/t5POzIfjlEg?rel=0",
+      "https://www.youtube.com/embed/X20cGHmSLQg?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Abrazala complicado",
+    "slug": "abrazala-complicado",
+    "type": "MEDIO-SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/abrazala-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/KHB-JopujKI?rel=0",
+      "https://www.youtube.com/embed/ee5CEmb78ag?rel=0",
+      "https://www.youtube.com/embed/5qdLijomx5s?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "ochenta y quatro (84)",
+    "slug": "ochenta-y-quatro",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/ochenta-y-quatro",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/8g4oKo07CR0?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Bayamo",
+    "slug": "bayamo",
+    "type": "MEDIO-SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/bayamo",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/BA2poyZ-gFI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Copelio",
+    "slug": "copelio",
+    "type": "MEDIO-SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/copelio",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/cmcHNHWAAv0?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Cuncun",
+    "slug": "cuncun",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/video/cuncun",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/ImWxO2l6_g8?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "El force",
+    "slug": "el-force",
+    "type": "MEDIO-SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-force",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/vXSkST5koHY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Medio sombrero y exhibela doble",
+    "slug": "medio-sombrero-y-exhibela-doble",
+    "type": "MEDIO-SOMBRERO",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/medio-sombrero-y-exhibela-doble",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/ajjdHHzXHEQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Melon",
+    "slug": "melon",
+    "type": "MEDIO-SOMBRERO",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/melon",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/ipcQzhzSJjU?rel=0",
+      "https://www.youtube.com/embed/9hwGtx4nqRE?rel=0",
+      "https://www.youtube.com/embed/VXVVax_Fawk?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Sabrosura",
+    "slug": "sabrosura",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/sabrosura",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/NIBEiqLH6Mc?rel=0",
+      "https://www.youtube.com/embed/qM2GGckMAPk?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "el melao",
+    "slug": "el-melao",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-melao",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/TnCq9NYlWRM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "El suave",
+    "slug": "el-suave",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-suave",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/kQjNJj-RmBQ?rel=0",
+      "https://www.youtube.com/embed/wkaVt_H4FMo?rel=0",
+      "https://www.youtube.com/embed/VTeXCCAtkEw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "El tambor",
+    "slug": "el-tambor",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-tambor",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/FtQtKpmB1YE?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Dedo loco",
+    "slug": "dedo-loco",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dedo-loco",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/YNeYyXPvc2U?rel=0",
+      "https://www.youtube.com/embed/FXYp-0c6vjM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Avioneta",
+    "slug": "avioneta",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/avioneta",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/AafnBeCgj34?rel=0",
+      "https://www.youtube.com/embed/9LBpiPek3C0?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Registrala",
+    "slug": "registrala",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/registrala",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/VTeXCCAtkEw?rel=0",
+      "https://www.youtube.com/embed/W-qOuKZJGnA?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Maykel",
+    "slug": "maykel",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/maykel",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Ola brava",
+    "slug": "ola-brava",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/ola-brava",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/M0FBvmM7wN4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "ola brava complicada",
+    "slug": "ola-brava-complicada",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/ola-brava-complicada",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "siete doble complicado",
+    "slug": "siete-doble-complicado",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/siete-doble-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/19qHUr_mPZA?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "setenta y siete (77)",
+    "slug": "setenta-y-siete",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/setenta-y-siete",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/pPz-wZU4x5I?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "El Gancho Maykel",
+    "slug": "el-gancho-maykel",
+    "type": "BACK-TO-BACK",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/el-gancho-maykel",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/DIK_IQnF-iI?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Durdu El Loco",
+    "slug": "durdu-el-loco",
+    "type": "OTHER",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/durdu-el-loco",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/uCYQ9csIrsY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Dedo gancho complicado",
+    "slug": "dedo-gancho-complicado",
+    "type": "OTHER",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dedo-gancho-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/vFMPBqnZAQw?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Echeveria",
+    "slug": "echeveria",
+    "type": "OTHER",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/echeveria",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/yUet7_8tz_Y?rel=0",
+      "https://www.youtube.com/embed/_YRRdIoNevo?rel=0",
+      "https://www.youtube.com/embed/Q1hU4xsSdKQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Echeveria complicado",
+    "slug": "echeveria-complicado",
+    "type": "OTHER",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/echeveria-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/mpWlxvI2WnY?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Yoghurt",
+    "slug": "yogurt",
+    "type": "OTHER",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/yogurt",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/FI_5lrm9HXQ?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Ping-pong",
+    "slug": "ping-pong",
+    "type": "OTHER",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/ping-pong",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/LZ_iDUOBrbM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Yoghurt y ping-pong",
+    "slug": "yoghurt-y-ping-pong",
+    "type": "OTHER",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/yoghurt-y-ping-pong",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/DC6gJQKqo04?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Double play",
+    "slug": "double-play",
+    "type": "OTHER",
+    "level": "beginer2",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/double-play",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/foyGuVjAnpc?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "dedo de Lazaro",
+    "slug": "dedo-de-lazaro",
+    "type": "OTHER",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/dedo-de-lazaro",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/NM4nOo8gvAA?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Serpiente",
+    "slug": "serpiente",
+    "type": "OTHER",
+    "level": "intermediate",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/serpiente",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/PFmFV89xsF8?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "pablito",
+    "slug": "pablito",
+    "type": "OTHER",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/pablito",
+    "youtube_urls": [],
+    "has_video": false
+  },
+  {
+    "name": "Remolino",
+    "slug": "remolino",
+    "type": "OTHER",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/remolino",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/OULZlXR7ofs?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Coco taxi",
+    "slug": "coco-taxi",
+    "type": "OTHER",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/coco-taxi",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/ZqX0OiZtcU4?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Gusto Cubano",
+    "slug": "gustocubano",
+    "type": "OTHER",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/gustocubano",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/H0ZOeNxu-hU?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Con dos mujeres",
+    "slug": "con-dos-mujeres",
+    "type": "OTHER",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/con-dos-mujeres",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/xjXlIKQVAQU?rel=0",
+      "https://www.youtube.com/embed/qFXLFyHeObM?rel=0"
+    ],
+    "has_video": true
+  },
+  {
+    "name": "Durdu El Loco complicado",
+    "slug": "durdu-el-loco-complicado",
+    "type": "OTHER",
+    "level": "advanced",
+    "detail_url": "https://salsalap.hu/videotar/salsa/figura/durdu-el-loco-complicado",
+    "youtube_urls": [
+      "https://www.youtube.com/embed/wuBG01u2e94?rel=0"
+    ],
+    "has_video": true
+  }
+]
