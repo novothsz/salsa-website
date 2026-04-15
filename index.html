@@ -5,28 +5,54 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Salsa Moves Library</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@600;700&family=Outfit:wght@400;500;600;700;800&display=swap"
+    rel="stylesheet"
+  />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header class="site-header">
-    <h1>Salsa Moves Library</h1>
-    <p>Browse salsa figures by type and level, inspired by salsalap.hu.</p>
+    <section class="site-header-copy">
+      <p class="eyebrow">Quick practice reference</p>
+      <h1>Salsa Moves Library</h1>
+      <p class="lead">Scan, filter, and launch videos in seconds. Built as a fast personal index inspired by salsalap.hu.</p>
+    </section>
+
+    <section class="hero-stats" aria-label="Library stats">
+      <article class="stat-card">
+        <p>Total moves</p>
+        <strong id="statTotal">0</strong>
+      </article>
+      <article class="stat-card">
+        <p>Visible now</p>
+        <strong id="statVisible">0</strong>
+      </article>
+      <article class="stat-card">
+        <p>Moves with video</p>
+        <strong id="statWithVideo">0</strong>
+      </article>
+    </section>
   </header>
 
   <main class="site-main">
-    <section class="controls">
-      <label>
-        Search by name:
+    <section class="controls" aria-label="Filters">
+      <div class="control-field control-search">
+        <label for="searchInput">Search move</label>
         <input type="text" id="searchInput" placeholder="e.g. Setenta" />
-      </label>
-      <label>
-        Type:
+      </div>
+
+      <div class="control-field">
+        <label for="typeFilter">Type</label>
         <select id="typeFilter">
           <option value="">All types</option>
         </select>
-      </label>
-      <label>
-        Level:
+      </div>
+
+      <div class="control-field">
+        <label for="levelFilter">Level</label>
         <select id="levelFilter">
           <option value="">All levels</option>
           <option value="beginer1">Beginner 1</option>
@@ -35,7 +61,23 @@
           <option value="advanced">Advanced</option>
           <option value="unknown">Unknown</option>
         </select>
-      </label>
+      </div>
+
+      <div class="control-field">
+        <label for="sortFilter">Sort</label>
+        <select id="sortFilter">
+          <option value="name-asc">Name A-Z</option>
+          <option value="name-desc">Name Z-A</option>
+          <option value="level-asc">Level then name</option>
+          <option value="type-asc">Type then name</option>
+        </select>
+      </div>
+
+      <button id="clearFiltersBtn" class="clear-filters-btn" type="button">Reset filters</button>
+    </section>
+
+    <section class="results-bar" aria-live="polite">
+      <p id="resultsInfo">Loading moves...</p>
     </section>
 
     <section id="movesContainer" class="moves-container">
