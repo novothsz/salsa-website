@@ -9,6 +9,7 @@ The app itself is frontend-only (HTML/CSS/JS). Python is only needed for refresh
 - `index.html`: Main page.
 - `style.css`: Visual design and responsive layout.
 - `app.js`: Loads JSON, filters, sorting, and rendering.
+- `auth-config.js`: Frontend auth configuration for Google sign-in and approval checks.
 - `scrape_salsalap_salsa.py`: Scraper to regenerate move data.
 - `salsa_moves.json`: Dataset used by the website.
 - `salsa_moves_vscode.json`: Alternate data export with extra details.
@@ -25,6 +26,90 @@ python -m http.server 8000
 3. Open http://localhost:8000/
 
 Note: Do not open `index.html` directly using file:// because browser fetch restrictions can block JSON loading.
+
+## Member-only videos (Google sign-in + admin approval)
+
+This branch supports hiding video links unless the user is both:
+
+1. Signed in with Google.
+2. Approved by an admin.
+
+### 1. Configure Supabase auth values
+
+Edit `auth-config.js`:
+
+```js
+window.SALSA_AUTH_CONFIG = {
+	enabled: true,
+	supabaseUrl: 'https://YOUR_PROJECT.supabase.co',
+	supabaseAnonKey: 'YOUR_SUPABASE_ANON_KEY',
+	profileTable: 'profiles',
+	userIdColumn: 'user_id',
+	approvalColumn: 'approved',
+	rejectedColumn: ''
+};
+```
+
+Important:
+
+- Use only the anon/public key in this file.
+- Never put Supabase service-role keys in frontend code.
+
+### 2. Enable Google provider in Supabase
+
+In Supabase Dashboard:
+
+1. Authentication -> Providers -> Google -> Enable.
+2. Set OAuth client ID/secret from Google Cloud.
+3. Add your site URL and callback URL exactly as Supabase requires.
+
+### 3. Create approval table
+
+Run SQL in Supabase SQL editor:
+
+```sql
+create table if not exists public.profiles (
+	user_id uuid primary key references auth.users(id) on delete cascade,
+	approved boolean not null default false,
+	created_at timestamptz not null default now(),
+	updated_at timestamptz not null default now()
+);
+
+alter table public.profiles enable row level security;
+
+create policy "users can read own profile"
+on public.profiles
+for select
+to authenticated
+using (auth.uid() = user_id);
+```
+
+### 4. Approve users as admin
+
+When a new user signs in, insert/update their profile row:
+
+```sql
+insert into public.profiles (user_id, approved)
+values ('USER_UUID_HERE', true)
+on conflict (user_id)
+do update set approved = excluded.approved, updated_at = now();
+```
+
+### 5. Behavior in this app
+
+- Not signed in: video buttons show as locked.
+- Signed in but not approved: still locked.
+- Signed in and approved: `Open video` links appear and hover preview works.
+
+## Security note for YouTube links
+
+This setup hides links from unapproved users on the site, but if you use unlisted YouTube URLs, approved users can still share those links.
+
+For stronger protection later:
+
+1. Keep videos in private storage.
+2. Serve short-lived signed URLs from a backend function.
+3. Keep authorization checks server-side.
 
 ## Setup for scraping data (macOS)
 

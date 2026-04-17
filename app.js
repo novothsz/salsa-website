@@ -17,6 +17,30 @@ const LEVEL_SORT_ORDER = {
 
 const DATA_SOURCES = ['salsa_moves_vscode.json', 'salsa_moves.json'];
 
+const DEFAULT_AUTH_CONFIG = {
+  enabled: false,
+  supabaseUrl: '',
+  supabaseAnonKey: '',
+  profileTable: 'profiles',
+  userIdColumn: 'user_id',
+  approvalColumn: 'approved',
+  rejectedColumn: ''
+};
+
+const authConfig = normalizeAuthConfig(window.SALSA_AUTH_CONFIG);
+
+const authState = {
+  status: 'checking',
+  message: 'Checking authentication setup...',
+  user: null,
+  approved: false
+};
+
+let supabaseClient = null;
+let movesCache = [];
+let applyFiltersRef = null;
+let authControlsBound = false;
+
 let hoverPreviewRoot = null;
 let hoverPreviewFrame = null;
 let hoverPreviewHideTimer = null;
@@ -25,17 +49,267 @@ const canUseHoverPreview = typeof window !== 'undefined' && typeof window.matchM
 
 async function loadMoves() {
   const container = document.getElementById('movesContainer');
-  try {
-    const rawMoves = await fetchMovesData();
-    const moves = rawMoves.map(normalizeMove);
+  setupAuthControls();
 
-    updateHeaderStats(moves.length, moves.length, countMovesWithVideo(moves));
-    setupFilters(moves);
+  try {
+    await initAuth();
+
+    const rawMoves = await fetchMovesData();
+    movesCache = rawMoves.map(normalizeMove);
+
+    updateHeaderStats(movesCache.length, movesCache.length, countMovesWithVideo(movesCache));
+    setupFilters(movesCache);
+    refreshAuthUi();
   } catch (err) {
     console.error(err);
     container.innerHTML = '<p class="empty-state">Failed to load moves.</p>';
-    updateResultsBar(0, 0, 0);
+    updateResultsBar(0, 0, 0, 0);
     updateHeaderStats(0, 0, 0);
+  }
+}
+
+async function initAuth() {
+  authState.status = 'checking';
+  authState.message = 'Checking authentication setup...';
+  authState.user = null;
+  authState.approved = false;
+  refreshAuthUi();
+
+  if (!authConfig.enabled) {
+    authState.status = 'not-configured';
+    authState.message = 'Member-only videos are disabled. Edit auth-config.js to enable Google sign-in.';
+    refreshAuthUi();
+    return;
+  }
+
+  if (!window.supabase || typeof window.supabase.createClient !== 'function') {
+    authState.status = 'error';
+    authState.message = 'Supabase client script could not be loaded.';
+    refreshAuthUi();
+    return;
+  }
+
+  if (!authConfig.supabaseUrl || !authConfig.supabaseAnonKey) {
+    authState.status = 'error';
+    authState.message = 'Missing Supabase URL or anon key in auth-config.js.';
+    refreshAuthUi();
+    return;
+  }
+
+  try {
+    supabaseClient = window.supabase.createClient(authConfig.supabaseUrl, authConfig.supabaseAnonKey);
+    const { data, error } = await supabaseClient.auth.getSession();
+    if (error) throw error;
+
+    await applySessionState(data.session);
+
+    supabaseClient.auth.onAuthStateChange((_event, session) => {
+      applySessionState(session)
+        .then(refreshVisibleMoves)
+        .catch((authError) => {
+          console.error(authError);
+          authState.status = 'error';
+          authState.message = 'Auth state update failed. Reload and try again.';
+          authState.approved = false;
+          refreshVisibleMoves();
+        });
+    });
+  } catch (error) {
+    console.error(error);
+    authState.status = 'error';
+    authState.message = 'Could not initialize auth. Check Supabase settings and try again.';
+    authState.user = null;
+    authState.approved = false;
+  }
+
+  refreshAuthUi();
+}
+
+async function applySessionState(session) {
+  const user = session?.user || null;
+  authState.user = user;
+
+  if (!user) {
+    authState.approved = false;
+    authState.status = 'signed-out';
+    authState.message = 'Sign in with Google. Video links unlock after admin approval.';
+    return;
+  }
+
+  const email = asTrimmedString(user.email) || 'your account';
+  const metadataApproved = user.app_metadata?.approved === true || user.user_metadata?.approved === true;
+
+  if (metadataApproved) {
+    authState.approved = true;
+    authState.status = 'approved';
+    authState.message = `Approved member: ${email}. Member videos are unlocked.`;
+    return;
+  }
+
+  const approvalState = await fetchApprovalState(user.id);
+
+  if (approvalState === 'approved') {
+    authState.approved = true;
+    authState.status = 'approved';
+    authState.message = `Approved member: ${email}. Member videos are unlocked.`;
+    return;
+  }
+
+  authState.approved = false;
+
+  if (approvalState === 'rejected') {
+    authState.status = 'rejected';
+    authState.message = `Signed in as ${email}, but access is not approved. Contact an admin.`;
+  } else {
+    authState.status = 'pending';
+    authState.message = `Signed in as ${email}. Your registration is pending admin approval.`;
+  }
+}
+
+async function fetchApprovalState(userId) {
+  if (!supabaseClient) return 'pending';
+
+  const selectedColumns = [authConfig.approvalColumn];
+  if (authConfig.rejectedColumn) {
+    selectedColumns.push(authConfig.rejectedColumn);
+  }
+
+  try {
+    const { data, error } = await supabaseClient
+      .from(authConfig.profileTable)
+      .select(selectedColumns.join(', '))
+      .eq(authConfig.userIdColumn, userId)
+      .maybeSingle();
+
+    if (error) {
+      console.error(error);
+      return 'pending';
+    }
+
+    if (!data) return 'pending';
+
+    if (authConfig.rejectedColumn && data[authConfig.rejectedColumn] === true) {
+      return 'rejected';
+    }
+
+    return data[authConfig.approvalColumn] === true ? 'approved' : 'pending';
+  } catch (error) {
+    console.error(error);
+    return 'pending';
+  }
+}
+
+function setupAuthControls() {
+  if (authControlsBound) return;
+
+  const primaryBtn = document.getElementById('authPrimaryBtn');
+  const secondaryBtn = document.getElementById('authSecondaryBtn');
+
+  if (!primaryBtn || !secondaryBtn) return;
+
+  primaryBtn.addEventListener('click', handlePrimaryAuthAction);
+  secondaryBtn.addEventListener('click', handleSignOutAction);
+  authControlsBound = true;
+}
+
+async function handlePrimaryAuthAction() {
+  if (authState.status === 'error') {
+    await initAuth();
+    refreshVisibleMoves();
+    return;
+  }
+
+  if (authState.status !== 'signed-out') return;
+
+  if (!supabaseClient) {
+    authState.status = 'error';
+    authState.message = 'Auth client is unavailable. Check auth setup and reload.';
+    refreshVisibleMoves();
+    return;
+  }
+
+  try {
+    const redirectTo = `${window.location.origin}${window.location.pathname}`;
+    const { error } = await supabaseClient.auth.signInWithOAuth({
+      provider: 'google',
+      options: { redirectTo }
+    });
+
+    if (error) throw error;
+  } catch (error) {
+    console.error(error);
+    authState.status = 'error';
+    authState.message = 'Google sign-in failed. Please try again.';
+    refreshVisibleMoves();
+  }
+}
+
+async function handleSignOutAction() {
+  if (!supabaseClient || !authState.user) return;
+
+  try {
+    const { error } = await supabaseClient.auth.signOut();
+    if (error) throw error;
+  } catch (error) {
+    console.error(error);
+    authState.status = 'error';
+    authState.message = 'Sign-out failed. Please try again.';
+    refreshVisibleMoves();
+  }
+}
+
+function refreshAuthUi() {
+  const statusText = document.getElementById('authStatusText');
+  const primaryBtn = document.getElementById('authPrimaryBtn');
+  const secondaryBtn = document.getElementById('authSecondaryBtn');
+
+  if (!statusText || !primaryBtn || !secondaryBtn) return;
+
+  statusText.textContent = authState.message;
+
+  primaryBtn.hidden = false;
+  primaryBtn.disabled = false;
+  secondaryBtn.hidden = true;
+  secondaryBtn.disabled = false;
+
+  if (authState.status === 'checking') {
+    primaryBtn.textContent = 'Checking...';
+    primaryBtn.disabled = true;
+    return;
+  }
+
+  if (authState.status === 'not-configured') {
+    primaryBtn.textContent = 'Auth disabled';
+    primaryBtn.disabled = true;
+    return;
+  }
+
+  if (authState.status === 'signed-out') {
+    primaryBtn.textContent = 'Sign in with Google';
+    return;
+  }
+
+  if (authState.status === 'error') {
+    primaryBtn.textContent = 'Retry auth setup';
+    return;
+  }
+
+  primaryBtn.hidden = true;
+  secondaryBtn.hidden = false;
+  secondaryBtn.textContent = 'Sign out';
+
+  if (authState.status === 'pending') {
+    secondaryBtn.classList.add('secondary');
+    return;
+  }
+}
+
+function refreshVisibleMoves() {
+  hideHoverPreview();
+  refreshAuthUi();
+
+  if (typeof applyFiltersRef === 'function') {
+    applyFiltersRef();
   }
 }
 
@@ -61,7 +335,7 @@ async function fetchMovesData() {
 function normalizeMove(move) {
   const levelValue = asTrimmedString(move.level).toLowerCase();
   const level = LEVEL_LABELS[levelValue] ? levelValue : 'unknown';
-  const detailUrl = asTrimmedString(move.detail_url);
+  const detailUrl = sanitizeHttpUrl(move.detail_url);
 
   const firstVideoUrl = getFirstVideoUrl(move);
   const youtubeId = extractYoutubeId(firstVideoUrl);
@@ -89,6 +363,22 @@ function getFirstVideoUrl(move) {
 
 function asTrimmedString(value) {
   return typeof value === 'string' ? value.trim() : '';
+}
+
+function sanitizeHttpUrl(value) {
+  const rawUrl = asTrimmedString(value);
+  if (!rawUrl) return '';
+
+  try {
+    const parsed = new URL(rawUrl);
+    if (parsed.protocol === 'http:' || parsed.protocol === 'https:') {
+      return parsed.toString();
+    }
+  } catch (error) {
+    return '';
+  }
+
+  return '';
 }
 
 function extractYoutubeId(urlValue) {
@@ -136,6 +426,20 @@ function buildYoutubePreviewUrl(videoId) {
   return `https://www.youtube.com/embed/${videoId}?autoplay=1&mute=1&controls=1&rel=0&modestbranding=1`;
 }
 
+function normalizeAuthConfig(rawConfig) {
+  const source = rawConfig && typeof rawConfig === 'object' ? rawConfig : {};
+
+  return {
+    enabled: source.enabled === true,
+    supabaseUrl: asTrimmedString(source.supabaseUrl),
+    supabaseAnonKey: asTrimmedString(source.supabaseAnonKey),
+    profileTable: asTrimmedString(source.profileTable) || DEFAULT_AUTH_CONFIG.profileTable,
+    userIdColumn: asTrimmedString(source.userIdColumn) || DEFAULT_AUTH_CONFIG.userIdColumn,
+    approvalColumn: asTrimmedString(source.approvalColumn) || DEFAULT_AUTH_CONFIG.approvalColumn,
+    rejectedColumn: asTrimmedString(source.rejectedColumn)
+  };
+}
+
 function setupFilters(moves) {
   const typeFilter = document.getElementById('typeFilter');
   const searchInput = document.getElementById('searchInput');
@@ -166,11 +470,14 @@ function setupFilters(moves) {
 
     const sortedMoves = sortMoves(filteredMoves, selectedSort);
     const visibleWithVideo = countMovesWithVideo(sortedMoves);
+    const visibleAccessibleVideos = countAccessibleVideos(sortedMoves);
 
     renderMoves(sortedMoves);
-    updateResultsBar(sortedMoves.length, moves.length, visibleWithVideo);
+    updateResultsBar(sortedMoves.length, moves.length, visibleWithVideo, visibleAccessibleVideos);
     updateHeaderStats(moves.length, sortedMoves.length, countMovesWithVideo(moves));
   }
+
+  applyFiltersRef = applyFilters;
 
   searchInput.addEventListener('input', applyFilters);
   typeFilter.addEventListener('change', applyFilters);
@@ -217,6 +524,9 @@ function sortMoves(moves, selectedSort) {
 
 function renderMoves(moves) {
   const container = document.getElementById('movesContainer');
+  const hasMemberVideoAccess = canAccessMemberVideos();
+
+  hideHoverPreview();
   container.innerHTML = '';
 
   if (!moves.length) {
@@ -251,14 +561,21 @@ function renderMoves(moves) {
     actions.className = 'move-actions';
 
     if (move.youtube) {
-      const link = document.createElement('a');
-      link.href = move.youtube;
-      link.target = '_blank';
-      link.rel = 'noopener noreferrer';
-      link.className = 'move-link';
-      link.textContent = 'Open video';
-      attachHoverPreview(link, move.youtubePreview);
-      actions.appendChild(link);
+      if (hasMemberVideoAccess) {
+        const link = document.createElement('a');
+        link.href = move.youtube;
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+        link.className = 'move-link';
+        link.textContent = 'Open video';
+        attachHoverPreview(link, move.youtubePreview);
+        actions.appendChild(link);
+      } else {
+        const locked = document.createElement('span');
+        locked.className = 'move-link locked';
+        locked.textContent = 'Members only video';
+        actions.appendChild(locked);
+      }
 
       if (move.detailUrl) {
         const sourceLink = document.createElement('a');
@@ -291,6 +608,14 @@ function renderMoves(moves) {
 
 function countMovesWithVideo(moves) {
   return moves.filter((move) => Boolean(move.youtube)).length;
+}
+
+function countAccessibleVideos(moves) {
+  return canAccessMemberVideos() ? countMovesWithVideo(moves) : 0;
+}
+
+function canAccessMemberVideos() {
+  return authState.approved === true;
 }
 
 function attachHoverPreview(link, previewUrl) {
@@ -383,9 +708,20 @@ function hideHoverPreview() {
   hoverPreviewFrame.src = '';
 }
 
-function updateResultsBar(visibleCount, totalCount, visibleWithVideoCount) {
+function updateResultsBar(visibleCount, totalCount, visibleWithVideoCount, visibleAccessibleVideos) {
   const resultsInfo = document.getElementById('resultsInfo');
-  resultsInfo.textContent = `Showing ${visibleCount} of ${totalCount} moves. ${visibleWithVideoCount} visible with video.`;
+
+  if (authState.status === 'approved') {
+    resultsInfo.textContent = `Showing ${visibleCount} of ${totalCount} moves. ${visibleAccessibleVideos} video links unlocked.`;
+    return;
+  }
+
+  if (authState.status === 'not-configured') {
+    resultsInfo.textContent = `Showing ${visibleCount} of ${totalCount} moves. ${visibleWithVideoCount} include member videos (auth disabled).`;
+    return;
+  }
+
+  resultsInfo.textContent = `Showing ${visibleCount} of ${totalCount} moves. ${visibleWithVideoCount} include member videos that require sign-in and approval.`;
 }
 
 function updateHeaderStats(totalCount, visibleCount, withVideoCount) {

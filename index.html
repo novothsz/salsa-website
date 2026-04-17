@@ -38,6 +38,17 @@
   </header>
 
   <main class="site-main">
+    <section class="auth-banner" aria-live="polite">
+      <div class="auth-copy">
+        <p class="auth-kicker">Member Access</p>
+        <p id="authStatusText" class="auth-status-text">Checking authentication setup...</p>
+      </div>
+      <div class="auth-actions">
+        <button id="authPrimaryBtn" class="auth-btn primary" type="button">Sign in with Google</button>
+        <button id="authSecondaryBtn" class="auth-btn secondary" type="button" hidden>Sign out</button>
+      </div>
+    </section>
+
     <section class="controls" aria-label="Filters">
       <div class="control-field control-search">
         <label for="searchInput">Search move</label>
@@ -89,6 +100,8 @@
     <p>Personal salsa reference site. Original inspiration: salsalap.hu (independent, non-official).</p>
   </footer>
 
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="auth-config.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

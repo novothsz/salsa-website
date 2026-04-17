@@ -118,6 +118,80 @@ body {
   padding-bottom: 2.6rem;
 }
 
+.auth-banner {
+  margin-top: 0.35rem;
+  padding: 0.8rem 0.9rem;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  background: linear-gradient(160deg, rgba(255, 247, 237, 0.94), rgba(246, 251, 255, 0.92));
+  box-shadow: var(--shadow-soft);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+}
+
+.auth-copy {
+  min-width: 0;
+}
+
+.auth-kicker {
+  margin: 0;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #7a5037;
+  font-weight: 800;
+}
+
+.auth-status-text {
+  margin: 0.2rem 0 0;
+  color: #384354;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.auth-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.45rem;
+}
+
+.auth-btn {
+  min-height: 2.35rem;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  padding: 0.45rem 0.78rem;
+  font-size: 0.88rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.auth-btn.primary {
+  background: linear-gradient(145deg, var(--accent), var(--accent-strong));
+  color: #fff;
+}
+
+.auth-btn.primary:hover {
+  filter: brightness(1.05);
+}
+
+.auth-btn.secondary {
+  border-color: #d0c2b6;
+  background: #fff6ec;
+  color: #684230;
+}
+
+.auth-btn.secondary:hover {
+  background: #ffeedd;
+}
+
+.auth-btn[disabled] {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
 .controls {
   position: sticky;
   top: 0.75rem;
@@ -164,6 +238,7 @@ body {
 .control-field input:focus-visible,
 .control-field select:focus-visible,
 .clear-filters-btn:focus-visible,
+.auth-btn:focus-visible,
 .move-link:focus-visible {
   outline: 3px solid rgba(197, 74, 45, 0.28);
   outline-offset: 1px;
@@ -314,6 +389,12 @@ body {
   color: #6d7988;
 }
 
+.move-link.locked {
+  border-color: #dccfc6;
+  background: #f9f1ea;
+  color: #6f5d4f;
+}
+
 .move-link.source-link {
   border-color: #e3d6c8;
   background: #fff6ec;
@@ -398,6 +479,16 @@ body {
   .clear-filters-btn {
     width: 100%;
   }
+
+  .auth-banner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .auth-actions {
+    width: 100%;
+    justify-content: flex-start;
+  }
 }
 
 @media (max-width: 620px) {
@@ -411,6 +502,10 @@ body {
     top: 0.45rem;
     padding: 0.72rem;
     grid-template-columns: 1fr;
+  }
+
+  .auth-btn {
+    width: 100%;
   }
 
   .hero-stats {
