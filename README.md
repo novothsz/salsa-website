@@ -34,6 +34,24 @@ This branch supports hiding video links unless the user is both:
 1. Signed in with Google.
 2. Approved by an admin.
 
+### Beginner quick start (5-10 minutes)
+
+If you are completely new to auth, follow only these steps first:
+
+1. Create a Supabase project (free tier is fine).
+2. Open `auth-config.js` and set:
+	- `enabled: true`
+	- your `supabaseUrl`
+	- your `supabaseAnonKey`
+3. In Supabase dashboard, enable Google provider:
+	- Authentication -> Providers -> Google
+4. In Supabase Google provider settings, add this redirect URL:
+	- `http://localhost:8000/`
+5. Run the site locally and reload.
+6. Click the setup/sign-in button in the Member Access banner.
+
+If the sign-in button says Setup Google sign-in, it means configuration is not finished yet.
+
 ### 1. Configure Supabase auth values
 
 Edit `auth-config.js`:
@@ -54,6 +72,7 @@ Important:
 
 - Use only the anon/public key in this file.
 - Never put Supabase service-role keys in frontend code.
+- Keep this file local/private if you prefer not to commit environment values.
 
 ### 2. Enable Google provider in Supabase
 
@@ -100,6 +119,16 @@ do update set approved = excluded.approved, updated_at = now();
 - Not signed in: video buttons show as locked.
 - Signed in but not approved: still locked.
 - Signed in and approved: `Open video` links appear and hover preview works.
+
+### Troubleshooting sign-in button
+
+- Button says Setup Google sign-in:
+	- `auth-config.js` is still disabled or missing URL/key.
+- Button says Retry auth setup:
+	- Supabase script loaded, but auth setup is invalid or incomplete.
+- Button says Sign in with Google but nothing happens:
+	- Check browser console and ensure Google provider is enabled in Supabase.
+	- Verify Supabase redirect URL matches your local URL exactly.
 
 ## Security note for YouTube links
 

@@ -77,7 +77,7 @@ async function initAuth() {
 
   if (!authConfig.enabled) {
     authState.status = 'not-configured';
-    authState.message = 'Member-only videos are disabled. Edit auth-config.js to enable Google sign-in.';
+    authState.message = 'Google sign-in is not configured yet. Click Setup Google sign-in for a quick checklist.';
     refreshAuthUi();
     return;
   }
@@ -213,10 +213,23 @@ function setupAuthControls() {
 }
 
 async function handlePrimaryAuthAction() {
+  if (authState.status === 'checking') {
+    return;
+  }
+
+  if (authState.status === 'not-configured') {
+    showAuthSetupChecklist();
+    return;
+  }
+
   if (authState.status === 'error') {
     await initAuth();
     refreshVisibleMoves();
-    return;
+
+    if (authState.status === 'not-configured' || authState.status === 'error') {
+      showAuthSetupChecklist();
+      return;
+    }
   }
 
   if (authState.status !== 'signed-out') return;
@@ -258,6 +271,21 @@ async function handleSignOutAction() {
   }
 }
 
+function showAuthSetupChecklist() {
+  const redirectUrl = `${window.location.origin}${window.location.pathname}`;
+  const message = [
+    'Google sign-in setup checklist:',
+    '',
+    '1. Open auth-config.js and set enabled to true.',
+    '2. Paste your Supabase project URL and anon key.',
+    '3. In Supabase Auth, enable Google provider.',
+    `4. Add this redirect URL in Supabase: ${redirectUrl}`,
+    '5. Reload this page, then click Sign in with Google again.'
+  ].join('\n');
+
+  window.alert(message);
+}
+
 function refreshAuthUi() {
   const statusText = document.getElementById('authStatusText');
   const primaryBtn = document.getElementById('authPrimaryBtn');
@@ -279,8 +307,7 @@ function refreshAuthUi() {
   }
 
   if (authState.status === 'not-configured') {
-    primaryBtn.textContent = 'Auth disabled';
-    primaryBtn.disabled = true;
+    primaryBtn.textContent = 'Setup Google sign-in';
     return;
   }
 
@@ -298,10 +325,6 @@ function refreshAuthUi() {
   secondaryBtn.hidden = false;
   secondaryBtn.textContent = 'Sign out';
 
-  if (authState.status === 'pending') {
-    secondaryBtn.classList.add('secondary');
-    return;
-  }
 }
 
 function refreshVisibleMoves() {
@@ -717,7 +740,7 @@ function updateResultsBar(visibleCount, totalCount, visibleWithVideoCount, visib
   }
 
   if (authState.status === 'not-configured') {
-    resultsInfo.textContent = `Showing ${visibleCount} of ${totalCount} moves. ${visibleWithVideoCount} include member videos (auth disabled).`;
+    resultsInfo.textContent = `Showing ${visibleCount} of ${totalCount} moves. ${visibleWithVideoCount} include member videos that stay locked until Google auth is configured.`;
     return;
   }
 
