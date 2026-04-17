@@ -19,7 +19,7 @@ The app itself is frontend-only (HTML/CSS/JS). Python is only needed for refresh
 2. Start a local web server:
 
 ```bash
-python -m http.server 8000
+python3 -m http.server 8000
 ```
 
 3. Open http://localhost:8000/
